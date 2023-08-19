@@ -6,8 +6,8 @@ tags:
     - 🐘Linux
     - 🍓nodejs
 author: yuniee
-featuredimg: https://s2.loli.net/2023/08/16/WFUtnA64pz29R7g.png
 summary: 如果使用apt源下载的不可以使用，就试试手动安装吧，可以选择任意版本
+image: https://s2.loli.net/2023/08/16/WFUtnA64pz29R7g.png
 ---
 
 > 手动下载可以选择任意版本，遇到不兼容的版本就使用手动下载吧
