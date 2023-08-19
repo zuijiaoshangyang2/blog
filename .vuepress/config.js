@@ -8,7 +8,7 @@ module.exports = {
     head: [
         ['link', {
             rel: 'icon',
-            href: `/myicon.png`
+            href: `/mylogo.png`
         }],
         ['link', {
             rel: 'manifest',
@@ -28,16 +28,16 @@ module.exports = {
         }],
         ['link', {
             rel: 'apple-touch-icon',
-            href: '/myicon.png'
+            href: '/mylogo.png'
         }],
         ['link', {
             rel: 'mask-icon',
-            href: '/myicon.png',
+            href: '/mylogo.png',
             color: '#3eaf7c'
         }],
         ['meta', {
             name: 'msapplication-TileImage',
-            content: '/myicon.png'
+            content: '/mylogo.png'
         }],
         ['meta', {
             name: 'msapplication-TileColor',
@@ -49,7 +49,7 @@ module.exports = {
         }]
     ],
     themeConfig: {
-        logo: '/avatars/myicon.png',
+        logo: '/avatars/mylogo.png',
         pwa: false,
         authors: [
             {
