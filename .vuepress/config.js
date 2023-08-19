@@ -37,7 +37,7 @@ module.exports = {
         }],
         ['meta', {
             name: 'msapplication-TileImage',
-            content: '/rodo.png'
+            content: '/myicon.png'
         }],
         ['meta', {
             name: 'msapplication-TileColor',
@@ -49,12 +49,12 @@ module.exports = {
         }]
     ],
     themeConfig: {
-        logo: '/avatars/rodber.png',
+        logo: '/avatars/myicon.png',
         pwa: false,
         authors: [
             {
                 name: 'yuniee',
-                avatar: '/avatars/mylogo.png',
+                avatar: '/avatars/myicon.png',
                 link: 'https://www.yuniee.de/',
                 linktext: 'Card',
             },
