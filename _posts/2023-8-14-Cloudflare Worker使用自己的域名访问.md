@@ -9,7 +9,6 @@ author: yuniee
 summary: 使用自己的域名访问Cloudflare Worker，让访问更优雅
 image: 
   path: /photos/worker.png
-  alt: workers
 ---
 
 # Cloudflare Worker使用自己的域名访问
