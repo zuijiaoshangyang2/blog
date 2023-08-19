@@ -1,0 +1,18 @@
+{
+	"meta": {
+		"scope": "md,markdown",
+		"prefix": "meta",
+		"body": [
+			"---",
+            "date: $1",
+            "title: $2",
+            "tags:",
+            "\t- $3",
+            "author: $4",
+            "summary: $5",
+            "featuredImage: /photos/$6",
+            "---",
+		],
+		"description": "Inserts Front Matter meta"
+	}
+}
