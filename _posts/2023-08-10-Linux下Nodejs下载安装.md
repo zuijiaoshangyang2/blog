@@ -160,3 +160,6 @@ root@server-iwi3ky:~# npx -v
 ```bash
 npm install --global yarn
 ```
+
+apt软件源安装方式：[Debian 11 安装最新node.js](https://www.yuniee.de/2023/07/30/debian-11-%E5%AE%89%E8%A3%85%E6%9C%80%E6%96%B0node-js/)
+
