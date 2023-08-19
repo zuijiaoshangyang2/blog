@@ -7,7 +7,7 @@ tags:
     - 🍌screen
 author: yuniee
 summary: 在Linux远程运行中非常有用
-image: https://s2.loli.net/2023/06/19/qOhLfRHbU6IuBkD.png
+image: [screen](https://s2.loli.net/2023/06/19/qOhLfRHbU6IuBkD.png)
 ---
 
 > 一个防止小鸡ssh断连导致任务中断的神器
