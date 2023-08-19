@@ -8,8 +8,7 @@ tags:
     - 💻闲置VPS利用计划
 author: yuniee
 summary: 加密的保护隐私的剪贴板。让你的分享更放心。
-image: 
-  path: https://s2.loli.net/2023/08/16/kmBTW3Uh8be6SH4.png
+image: https://s2.loli.net/2023/08/16/kmBTW3Uh8be6SH4.png
 ---
 
 # 闲置VPS利用计划——Docker-compose搭建PrivateBin，一个加密的剪贴板
