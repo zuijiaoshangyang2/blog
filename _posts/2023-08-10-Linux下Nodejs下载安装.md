@@ -7,7 +7,9 @@ tags:
     - 🍓nodejs
 author: yuniee
 summary: 如果使用apt源下载的方式不可以使用，就试试手动安装吧，也可以选择任意版本
-image: https://s2.loli.net/2023/08/16/WFUtnA64pz29R7g.png
+image: 
+  path: https://s2.loli.net/2023/08/16/WFUtnA64pz29R7g.png
+  alt: nodejs
 ---
 
 > 手动下载也可以选择任意版本，遇到不能使用安装源下载的情况就使用手动下载吧
