@@ -3,7 +3,7 @@ const { reverse, sortBy } = require('lodash')
 module.exports = {
     title: '云匿博客',
     base: '/',
-    description: '记录一些有用但基础的玩机指南',
+    description: '记录一些基础但有用的玩机指南，希望这里有适合你的内容',
     theme: require.resolve('../../'),
     head: [
         ['link', {
@@ -56,10 +56,10 @@ module.exports = {
                 name: 'yuniee',
                 avatar: '/avatars/myicon.png',
                 link: 'https://www.yuniee.de/',
-                linktext: 'Subscribe',
+                linktext: 'Follow',
             },
             {
-                name: 'rodber',
+                name: 'gosh',
                 avatar: '/avatars/rodber.png',
                 link: 'https://github.com',
                 linktext: 'GitHub',
@@ -94,8 +94,8 @@ module.exports = {
             ],
             copyright: [
                 // {
-                //   text: '',
-                //   link: '',
+                //   text: '转载请标注来源',
+                //   link: 'https://www.yuniee.de/',
                 // },
             ],
         },
