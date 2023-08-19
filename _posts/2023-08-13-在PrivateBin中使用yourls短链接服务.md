@@ -6,8 +6,7 @@ tags:
     - 🐘Linux
 author: yuniee
 summary: 让PrivateBin的链接看起来更简短。
-image: 
-  path: https://s2.loli.net/2023/08/17/iCDt3UMnW8HT4FK.png
+image: https://s2.loli.net/2023/08/17/iCDt3UMnW8HT4FK.png
 ---
 
 # 在PrivateBin中使用YOURLS短链接服务
