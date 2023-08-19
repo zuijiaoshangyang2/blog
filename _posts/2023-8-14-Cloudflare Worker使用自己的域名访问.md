@@ -3,8 +3,8 @@ title: Cloudflare Worker使用自己的域名访问
 date: 2023-08-14T18:57:42+08:00
 lastmod: CST，China Standard Time
 tags: 
-   - 🔗域名
-   - ☁Cloudflare
+    - 🔗域名
+    - ☁Cloudflare
 author: yuniee
 summary: 使用自己的域名访问Cloudflare Worker，让访问更优雅
 image: /photos/worker.png
