@@ -56,12 +56,12 @@ module.exports = {
                 name: 'yuniee',
                 avatar: '/avatars/myicon.png',
                 link: 'https://www.yuniee.de/',
-                linktext: 'Card',
+                linktext: 'Subscribe',
             },
             {
                 name: 'rodber',
                 avatar: '/avatars/rodber.png',
-                link: 'https://github.com/rodber',
+                link: 'https://github.com',
                 linktext: 'GitHub',
             },
             {
@@ -81,7 +81,7 @@ module.exports = {
             contact: [
                 {
                     type: 'github',
-                    link: 'https://github.com/rodber',
+                    link: 'https://github.com',
                 },
                 {
                     type: 'mail',
