@@ -9,7 +9,6 @@ author: yuniee
 summary: 在Linux远程运行中非常有用
 image: 
   path: https://s2.loli.net/2023/06/19/qOhLfRHbU6IuBkD.png
-  alt: screen
 ---
 
 > 一个防止小鸡ssh断连导致任务中断的神器
