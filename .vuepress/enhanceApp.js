@@ -5,10 +5,19 @@
  */
 
 export default ({
-  Vue, // the version of Vue being used in the VuePress app
-  options, // the options for the root Vue instance
-  router, // the router instance for the app
-  siteData // site metadata
+  Vue,
+  options,
+  router,
+  siteData
 }) => {
-  // ...apply enhancements to the app
+  // Create a <script> element
+  const scriptElement = document.createElement('script');
+  scriptElement.defer = true;
+  scriptElement.dataset.domain = 'tj.naaa.top';
+  scriptElement.src = 'https://tj.naaa.top/js/script.js';
+
+  // Append the <script> element to the <head> tag
+  document.head.appendChild(scriptElement);
+
+  // ...apply other enhancements to the app if needed
 }
