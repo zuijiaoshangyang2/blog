@@ -47,3 +47,30 @@ Twitter⛩️：[ASMR BlueKatie](https://twitter.com/ASMRBluekatie)
 
 商店🏪：[Bluekatie Store](https://bluekatie.store/)
 
+2. **benio店長 / ASMR屋さん**
+
+![benio.jpg](https://s2.loli.net/2023/08/20/3EvOHVWNSiyoRX1.jpg)
+
+benio将自己的频道比喻成商店，她的简介是“致力于成为像“ASMR综艺节目”一样既能看又能听到愉悦放松的商店💭。在ASMR店铺中我们提供了许多类型的 ASMR ，试着找到你最喜欢的“ ASMR· Trigger ”吧😴”，她的视频同样有很多优质的化妆和角色扮演视频，她的订阅数量甚至是112万（真是厉害😀），她的频道主要是各种Trigger，她的Trigger听起来还不错，很舒服。在一个视频中她说她以前曾在赌场当荷官（~~性感荷官，在线发牌~~）。她展示了过人的洗牌技术🐮。她和BlueKatie是好朋友，在合作的视频中，她总是看起来像个稳重的大姐姐。她还喜欢玩游戏，她的视频中有各种各样的触发器，似乎什么都能作为触发器🤯。我最喜欢她的手指敲击声音。让人听起来感到酥麻。也是我非常喜欢的日本YouTuber。
+
+视频展示：
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wZM0FF3bb_4?si=e2TIuec-Akan4aq1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
+
+
+YouTube频道🍙：[benio店長](https://www.youtube.com/@benio_ASMR)
+
+Instagram🏯: [benio店長](https://www.instagram.com/benio_gram/)
+
+TikTok🎋：[benio店長](https://www.youtube.com/redirect?event=channel_description&redir_token=QUFFLUhqbEp2VWJpa0xyVGM4WmtDczJxWENxOFRYZUk0d3xBQ3Jtc0tuRHhrNFFpNFlRTnhmQ1pmR21mazNXMk9lcnB2bHdXMU5TYTlwV2JzUmVXNU9pMlpURFNCR1ppR3FJZE9oQlpKa3ZGV18tRjcxd1FndXhFaFctekJZTlNmM2ZiQzlSWlFxc2NHQkNWOFZTTy1yZVdlTQ&q=https%3A%2F%2Fvt.tiktok.com%2FZSwmpvgE%2F)
+
+Twitter🗻: [benio店長](https://twitter.com/AsmrBenio)
+
+litlink💮: [benio店長](https://lit.link/en/benioASMR)
+
+商店🏪: [benio店長](https://benio-asmr.booth.pm/)
+
+
