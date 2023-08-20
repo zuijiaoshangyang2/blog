@@ -34,7 +34,7 @@ image: https://s2.loli.net/2023/08/20/r7EpcivIHARm4wy.webp
 
 视频展示：
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/s-DQ-SI7Ij4?si=kRna635yDa2GK_X7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ADBJfar-Qvk?si=i0PTueUJbl_LnpnN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 YouTube频道🍡：[ASMR BlueKatie ](https://www.youtube.com/@ASMRBlueKatie/featured)
