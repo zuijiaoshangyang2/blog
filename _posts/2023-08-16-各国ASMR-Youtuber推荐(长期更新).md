@@ -73,4 +73,18 @@ litlink💮: [benio店長](https://lit.link/en/benioASMR)
 
 商店🏪: [benio店長](https://benio-asmr.booth.pm/)
 
+### 🐻hopeful asmr
+
+![hopeful.webp](https://s2.loli.net/2023/08/20/9lyfKAEv5gW1J3x.png)
+
+她的asmr频道也不小，有41.2万（截至2023年8月15日），她擅长嘴巴发出的trigger声音，的确让人听起来很放松，让人感觉昏昏欲睡，她在视频中总是看起来很努力。她的声音也很温柔，好像带有魔力，催你快点入睡。她的YouTube简介中甚至没有什么内容，视频就是对她最好的简介。
+
+视频展示：
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uUh1LTVJits?si=3vy-KsxHSoqhnUse" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
+YouTube：[hopeful_asmr](https://www.youtube.com/@hopeful_asmr)
+
 
