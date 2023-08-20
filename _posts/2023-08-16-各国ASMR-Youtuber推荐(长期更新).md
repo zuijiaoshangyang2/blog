@@ -26,7 +26,7 @@ image: https://s2.loli.net/2023/08/20/r7EpcivIHARm4wy.webp
 
 
 
-1. **ASMR BlueKatie** 
+### 🕊️ASMR BlueKatie
 
 ![bluekitty2.jpg](https://s2.loli.net/2023/08/20/n61BI4xbv5HCSiA.jpg)
 
@@ -47,7 +47,7 @@ Twitter⛩️：[ASMR BlueKatie](https://twitter.com/ASMRBluekatie)
 
 商店🏪：[Bluekatie Store](https://bluekatie.store/)
 
-2. **benio店長 / ASMR屋さん**
+### 🐧benio店長 / ASMR屋さん
 
 ![benio.jpg](https://s2.loli.net/2023/08/20/3EvOHVWNSiyoRX1.jpg)
 
