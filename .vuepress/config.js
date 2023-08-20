@@ -6,10 +6,6 @@ module.exports = {
     description: '记录一些基础但有用的玩机指南，然后我想写啥写啥，希望这里有适合你的内容',
     theme: require.resolve('../../'),
     head: [
-        ['script', { 
-            defer: true, 'data-domain': 'tj.naaa.top', 
-            src: 'https://tj.naaa.top/js/script.js' 
-        }]
         ['link', {
             rel: 'icon',
             href: `/mylogo.png`
