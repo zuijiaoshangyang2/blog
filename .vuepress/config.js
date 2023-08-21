@@ -97,7 +97,7 @@ module.exports = {
         footer: {
             contact: [
                 {
-                    type: 'github',
+                    type: 'statistics',
                     link: 'https://github.com',
                 },
                 {
