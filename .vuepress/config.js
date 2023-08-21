@@ -9,14 +9,11 @@ module.exports = {
         'plausible': { domain: 'tj.naaa.top' },
     },
     head: [
-        {
-            tag: 'script',
+        ['script', {
             defer: true,
-            attrs: {
-                'data-domain': 'tj.naaa.top',
-                src: 'https://tj.naaa.top/js/script.js'
-            }
-        }
+            'data-domain': 'tj.naaa.top',
+            src: 'https://tj.naaa.top/js/script.js'
+        }],
 
         ['link', {
             rel: 'icon',
