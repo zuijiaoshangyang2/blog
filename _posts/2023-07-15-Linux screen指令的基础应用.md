@@ -9,15 +9,6 @@ author: yuniee
 summary: 在Linux远程运行中非常有用
 image: https://s2.loli.net/2023/06/19/qOhLfRHbU6IuBkD.png
 ---
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-C7JDHRCBP0"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-C7JDHRCBP0');
-</script>
 
 > 一个防止小鸡ssh断连导致任务中断的神器
 
