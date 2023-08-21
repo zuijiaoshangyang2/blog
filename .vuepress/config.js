@@ -97,8 +97,8 @@ module.exports = {
         footer: {
             contact: [
                 {
-                    type: 'trending-up',
-                    link: 'https://tj.naaa.top/tj.naaa.top',
+                    type: 'github',
+                    link: 'https://github.com/',
                 },
                 {
                     type: 'mail',
@@ -106,14 +106,14 @@ module.exports = {
                 },
                 {
                     type: 'globe',
-                    link: 'https://yuniee.de',
+                    link: 'https://tj.naaa.top/tj.naaa.top',
                 },
             ],
             copyright: [
-//                 {
-//                   text: '网站访问统计',
-//                   link: 'https://tj.naaa.top/tj.naaa.top',
-//                 },
+                // {
+                //   text: '',
+                //   link: '',
+                // },
             ],
         },
         sitemap: {
