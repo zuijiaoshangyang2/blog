@@ -9,7 +9,7 @@ module.exports = {
     [
       '@vuepress/google-analytics',
       {
-        'ga': '401297891' // UA-00000000-0
+        'ga': 'G-C7JDHRCBP0' // UA-00000000-0
       }
     ]
   ],
@@ -97,8 +97,8 @@ module.exports = {
         footer: {
             contact: [
                 {
-                    type: 'link',
-                    link: 'https://github.com',
+                    type: 'trending-up',
+                    link: 'https://tj.naaa.top/tj.naaa.top',
                 },
                 {
                     type: 'mail',
@@ -110,10 +110,10 @@ module.exports = {
                 },
             ],
             copyright: [
-                 {
-                   text: '网站访问统计',
-                   link: 'https://tj.naaa.top/tj.naaa.top',
-                 },
+//                 {
+//                   text: '网站访问统计',
+//                   link: 'https://tj.naaa.top/tj.naaa.top',
+//                 },
             ],
         },
         sitemap: {
