@@ -102,10 +102,10 @@ module.exports = {
                 },
             ],
             copyright: [
-                // {
-                //   text: '转载请标注来源',
-                //   link: 'https://www.yuniee.de/',
-                // },
+                 {
+                   text: '网站访问统计',
+                   link: 'https://tj.naaa.top/tj.naaa.top',
+                 },
             ],
         },
         sitemap: {
