@@ -9,7 +9,7 @@ module.exports = {
     [
       '@vuepress/google-analytics',
       {
-        'ga': 'G-C7JDHRCBP0' // UA-00000000-0
+        'ga': '401297891' // UA-00000000-0
       }
     ]
   ],
@@ -97,7 +97,7 @@ module.exports = {
         footer: {
             contact: [
                 {
-                    type: 'statistics',
+                    type: 'link',
                     link: 'https://github.com',
                 },
                 {
