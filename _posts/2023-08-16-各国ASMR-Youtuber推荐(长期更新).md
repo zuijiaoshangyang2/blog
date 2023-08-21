@@ -126,8 +126,28 @@ Sumimi是中文ASMR中我最喜欢的一位了，她主要在bilibili发布视�
 
 
 
+
 BiliBili频道🎑：[是Sumimi呀](https://space.bilibili.com/921044)
 
 YouTube频道🎍：[Sumimi ASMR](https://www.youtube.com/@sumimiasmr)
 
 抖音🎁：[是Sumimi呀-助眠](https://v.douyin.com/iJgkGhAk/)
+
+### 🧟SOMBIE丧妹
+
+![sm.webp](https://s2.loli.net/2023/08/21/uHmkRyAqIvhWNj9.webp)
+
+丧妹同样是中文ASMR的顶流之一，她现在已经在BiliBili里有107万粉丝了（截至2023年8月15日）。她的名字就很有趣，这么漂亮的女孩与丧尸的名字形成强烈反差，莫名有些喜感，她的bilibili小号名字甚至是 ”[扎双马尾的丧尸](https://space.bilibili.com/86861820)“ 😱。她制作的角色扮演视频也还不错，但她很多角色扮演视频是那种非悄悄话的，这对我个人来说有些遗憾。她还喜欢制作一些聊天视频，这是我最喜欢她视频的地方，听着她讲述自己的故事和说一些自己的想法还是很有趣的。有时候也会读故事。她自己说她本人性格是比较内向的。而且她在YouTube上频道的运营非常佛系，总是忘记在YouTube上传视频（她自己说的🤣）。也是，毕竟在B站可是有一百多万粉丝呢。但真希望她多照顾一下YouTube吧，毕竟也有5万粉丝等着呢🥲。
+
+**视频展示**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kOtdqjyTuVM?si=IOm_zwgBbpUdjdoT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
+
+
+BiliBili频道🐿️：[丧妹有点跳](https://space.bilibili.com/4548018)
+
+YouTube频道🤖：[SOMBIE丧妹](https://www.youtube.com/@sombie5145)
+
