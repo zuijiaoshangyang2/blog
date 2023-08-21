@@ -109,7 +109,7 @@ module.exports = {
                     link: 'https://tj.naaa.top/tj.naaa.top',
                 },
             ],
-            copyright: [
+        copyright: [
                 // {
                 //   text: '',
                 //   link: '',
