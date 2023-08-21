@@ -32,7 +32,7 @@ image: https://s2.loli.net/2023/08/20/r7EpcivIHARm4wy.webp
 
 我最喜欢的YouTuber😍，她2017年6月30日在YouTube上注册至今已经有44.6万位订阅者了（截止至2023年8月15日）。她长相很漂亮，很可爱，当然在视频中的性格也是很可爱，虽说分类到日本ASMR里，因为她的视频以日语和日本受众为主。但她其实是一个混血儿，他爸爸是荷兰人，妈妈是日本人。很显然结合了欧洲人和亚洲人的美。他的视频风格多样，多以角色扮演为主，并且非常精致，她的视频不仅适合听，观赏性也非常高，她的视频有各国的字幕，并且翻译不错，她是专门招募粉丝帮她翻译。她在视频中很有趣，经常让你笑出来。台词诙谐幽默，常常无厘头。她也经常做英文视频，她会说日语英语以及荷兰语（真羡慕🥹）。她还有个弟弟，也很帅气。有时出现在她的视频中，她的人缘很好，有时和圈内来自各国的asmr创作者联动拍摄视频，好多同行从世界各地发来的片段组成一个视频，还是很有趣的。其中和她最要好的就是benio（benio店長 / ASMR屋さん）和Nozomi（hopeful_asmr）。她们经常一起拍摄视频，或者出联动视频，也经常一起出去玩，一起拍摄vlog，也经常在Instagram中发合照。还在彼此过生日时出视频拆开对方的礼物。总之，我最喜欢她的视频了👻。
 
-视频展示：
+**视频展示**：
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ADBJfar-Qvk?si=i0PTueUJbl_LnpnN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -53,7 +53,7 @@ Twitter⛩️：[ASMR BlueKatie](https://twitter.com/ASMRBluekatie)
 
 benio将自己的频道比喻成商店，她的简介是“致力于成为像“ASMR综艺节目”一样既能看又能听到愉悦放松的商店💭。在ASMR店铺中我们提供了许多类型的 ASMR ，试着找到你最喜欢的“ ASMR· Trigger ”吧😴”，她的视频同样有很多优质的化妆和角色扮演视频，她的订阅数量甚至是112万（真是厉害😀），她的频道主要是各种Trigger，她的Trigger听起来还不错，很舒服。在一个视频中她说她以前曾在赌场当荷官（~~性感荷官，在线发牌~~）。她展示了过人的洗牌技术🐮。她和BlueKatie是好朋友，在合作的视频中，她总是看起来像个稳重的大姐姐。她还喜欢玩游戏，她的视频中有各种各样的触发器，似乎什么都能作为触发器🤯。我最喜欢她的手指敲击声音。让人听起来感到酥麻。也是我非常喜欢的日本YouTuber。
 
-视频展示：
+**视频展示**：
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wZM0FF3bb_4?si=e2TIuec-Akan4aq1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -79,12 +79,30 @@ litlink💮: [benio店長](https://lit.link/en/benioASMR)
 
 她的asmr频道也不小，有41.2万（截至2023年8月15日），她擅长嘴巴发出的trigger声音，的确让人听起来很放松，让人感觉昏昏欲睡，她在视频中总是看起来很努力。她的声音也很温柔，好像带有魔力，催你快点入睡。她的YouTube简介中甚至没有什么内容，视频就是对她最好的简介。
 
-视频展示：
+**视频展示**：
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uUh1LTVJits?si=3vy-KsxHSoqhnUse" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 
-YouTube：[hopeful_asmr](https://www.youtube.com/@hopeful_asmr)
+YouTube🐣：[hopeful_asmr](https://www.youtube.com/@hopeful_asmr)
+
+### 🐼神楽ひなこ
+
+![shenle.jpg](https://s2.loli.net/2023/08/21/M8yzvnQcCs59w3b.jpg)
+
+如果你喜欢吃播类型的asmr，你喜欢听咀嚼音，她或许是一个好选择，她本身是一个日本的夜光性アミューズ（夜光娱乐）团体的一名偶像，在她的视频中总有各种各样的零食和大餐。（为什么别人就吃不胖🥲？）。她在视频里的食物几乎都不重样，也能让人见识一下有趣的零食和日本的料理。不过晚上看她吃那么香的东西怎么能睡着觉😵‍💫。但依然不能否定，她的视频是非常放松的。
+
+**视频展示**：
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GuEzjWeECwM?si=lgupDstL8-uk4OXM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
+
+
+
+YouTube频道🎃：[神楽ひなこ](https://www.youtube.com/@hinakokagura)
+
+Instagram📸：[神楽ひなこ](https://www.instagram.com/hinako_kagura)
+
+Twitter🐦：[神楽ひなこ](https://twitter.com/hina_yoruami)
