@@ -106,3 +106,28 @@ YouTube频道🎃：[神楽ひなこ](https://www.youtube.com/@hinakokagura)
 Instagram📸：[神楽ひなこ](https://www.instagram.com/hinako_kagura)
 
 Twitter🐦：[神楽ひなこ](https://twitter.com/hina_yoruami)
+
+
+## 🪕中国
+
+虽说在中国ASMR更为小众，但依然有很多优秀的ASMR创作者，他们也在YouTube上发布视频，同样不遑多让，而且因为是中文，对我来说听起来熟悉又亲切，所以不用看字幕，体验非常好，可惜的是中文ASMR创作者很少有角色扮演类的，大多数是直播类，我不喜欢直播类，因为直播类质量非常低，单调无聊，并且国内ASMR擦边视频大多来自直播类。但依然有一些愿意制作精良视频，认真做这件事的人，就我个人而言是希望有更多的可以花费时间写剧本，创作更多优秀的中文ASMR的中国ASMR创作者💪。因为中文让我身临其境。
+
+
+
+## 🎨Sumimi ASMR
+
+![sumimi.jpg](https://s2.loli.net/2023/08/21/1qhvNZbsuMLfetg.jpg)
+
+Sumimi是中文ASMR中我最喜欢的一位了，她主要在bilibili发布视频，她的视频也很优质，她拥有着一种超级可爱的声线🤗。能在bilibili上制作asmr视频获得接近100万粉丝（截至2023年8月15日）可不是盖的。这是我见过的所有ASMR创作者中声音最可爱的一位，她的视频有悄悄话角色扮演，有讲故事（中文讲故事，那感觉就是不一样，能听懂才能集中注意力。）经常穿各式各样的漂亮的衣服，比如汉服，洛丽塔，水手服等。在她的社区和bilibili动态里也经常发很多cosplay的照片。她制作的角色扮演视频是我觉得中文ASMR中最好的，她会花心思制作一个剧本，虽然很简单而且角色扮演视频有点少，但依然很棒。人们常常对自己的语言有一种尴尬症，但她的视频很自然，完全不尴尬。希望她能越做越好。她的视频给人一种安静的感觉，听着没几分钟就昏昏欲睡。总之，如果你喜欢中文ASMR，千万不要错过她。
+
+**视频展示**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x7Dtwf-CEAY?si=tsWJosGwDafM2l1T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
+BiliBili频道🎑：[是Sumimi呀](https://space.bilibili.com/921044)
+
+YouTube频道🎍：[Sumimi ASMR](https://www.youtube.com/@sumimiasmr)
+
+抖音🎁：[是Sumimi呀-助眠](https://v.douyin.com/iJgkGhAk/)
