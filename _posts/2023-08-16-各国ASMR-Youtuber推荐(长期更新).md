@@ -151,3 +151,75 @@ BiliBili频道🐿️：[丧妹有点跳](https://space.bilibili.com/4548018)
 
 YouTube频道🤖：[SOMBIE丧妹](https://www.youtube.com/@sombie5145)
 
+### 🦩周小小ASMR
+
+![2023-08-21 213314.png](https://s2.loli.net/2023/08/21/flcEwxgHWd3sRBT.png)
+
+她的视频更加有趣，因为她根本不在意表情管理，各种搞怪表情，很有趣，明明可以靠颜值，却偏偏靠搞笑的灵魂🤭。她的视频缺点就是很短，适合发布在抖音上，但几分钟的视频也同样不止有趣，还很放松，让人意犹未尽，真希望能够让视频长一点。她的触发器也比较丰富，总之，如果她是长视频，也一定很优秀。
+
+
+
+**视频展示**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzPyC8lJg0E?si=nkBJIw2tcT_VisVf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
+
+
+抖音🧶：[周小小助眠](https://v.douyin.com/iJpdp19H/)
+
+BiliBili频道🦗：[周小小助眠](https://space.bilibili.com/49684332)
+
+YouTube频道🐼：[周小小ASMR](https://www.youtube.com/@ASMR_ZHOU)
+ 
+### 🐸ASMR lengshui（现新号"怀民睡了吗 ASMR"）
+
+![2023-08-21 215442.png](https://s2.loli.net/2023/08/21/PY8MZ4FClIfOhDK.png)
+
+✨第一位男性登场！这个是虎牙主播，虽说我不喜欢直播视频，因为往往质量很差，但他的直播很吸引我，虽说也是纯触发音，但他的手法非常不错，而且他看起来很有亲和力，尤其是他笑的时候，看起来很亲切。他的直播间会给我一种舒适轻松的感觉，就像那种你劳累了一周，在这里找寻一篇宁静之地。听听他在直播和弹幕的粉丝说说话，发出一些令人放松的触发音，真的很舒适。他最近在YouTube换了新号，因为他说原先的频道被坑了，所以我在这里只介绍他的新号。
+
+视频展示：
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RN2X8rMk36M?si=2eJJOMFbt3pKD4Bk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
+
+
+虎牙直播🐯：直播间号 `238767`
+
+BiliBIli频道📺：[冷水先森123](https://space.bilibili.com/8707793)
+
+YouTube频道👹：[怀民睡了吗 ASMR](https://www.youtube.com/@HuaiminASMR)
+
+
+
+## 🥋韩国
+
+在我看来，韩国ASMR行业是亚洲最发达的一个，YouTube里有大量的韩国ASMR Youtuber，所以出彩的视频创作者真的非常多。让人应接不暇。质量高的比比皆是，虽然有些韩国ASMR偏性感但不擦边。韩国很多优质创作者剧情性特别强，总之韩国ASMR让人看了会觉得他们的ASMR视频好精良，一切都那么完整，可观赏性很高。他们的创作者粉丝也非常庞大，完全不算小众。
+
+
+
+### ASMR Suna 꿀꿀선아 
+
+![suna.png](https://s2.loli.net/2023/08/21/JKZ9uAwvBqNxfIe.png)
+
+她的视频是我见过最精良的ASMR视频，让我震惊，第一次接触就感受到了与众不同，就像精心编排的舞台剧，一切都那么完整，视频中充满了有趣的特效，她的视频给人的感觉就像是魔法世界，呈现的视频像是科幻片，对于ASMR来说，她的视频算是众多ASMR视频中的艺术品。绝对让人感受到眼前一亮。唯一的缺点就是我不懂韩语😭，否则那一定非常棒。她的视频中也有很多有趣的对话。她的视频不再让人只想听，还想看剧情画面。她将广告做成视频主题也依然很好，我不知道她的视频会花费她多少时间，但她一定是一个脑海中有个童话世界的女孩。我愿称之为ASMR情景剧巅峰，角色扮演视频的最顶尖创作者🎉🎉🎉🎉。最让我震撼的视频就是她和一位手部残疾的魔术师合作的公益性质的ASMR视频，我第一次见一个ASMR视频可以这样传递这么有高度的思想，鼓舞人心。真希望她能出更多这种视频。"Have a good night, have a good dream and have a lovely day🧡"
+
+**视频展示(个人认为巅峰之作，我最喜欢的ASMR视频，没有之一。)**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7RQN1TV1d58?si=wQLAggD3Ym4bT_eH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
+
+
+YouTube频道🎢：[ASMR Suna 꿀꿀선아](https://www.youtube.com/@ASMRSUNA)
+
+Instagram🪶：[ggulggulsuna](https://www.instagram.com/ggulggulsuna#)
+
+Facebook👾：[선아 （Asmr suna）](https://www.facebook.com/kyoung.jeon.92)
+
+Audio clip🦋：[세상의 모든 소리 선아 ASMR](https://audioclip.naver.com/channels/1080)
+Fan site🦄：[Fan site](https://cafe.naver.com/ggulggulsuna)
