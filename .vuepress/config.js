@@ -97,7 +97,7 @@ module.exports = {
         footer: {
             contact: [
                 {
-                    type: 'github',
+                    type: 'telegrame',
                     link: 'https://github.com/',
                 },
                 {
