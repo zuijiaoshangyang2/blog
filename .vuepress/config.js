@@ -1,4 +1,4 @@
-const { reverse, sortBy } = require('lodash')
+3const { reverse, sortBy } = require('lodash')
 
 module.exports = {
     title: '云匿博客',
@@ -6,7 +6,7 @@ module.exports = {
     description: '记录一些基础但有用的玩机指南，然后我想写啥写啥，希望这里有适合你的内容',
     theme: require.resolve('../../'),
     plugins: {
-        'plausible': { domain: 'tj.naaa.top', 'selfHostedUrl': 'https://tj.naaa.top/js/script.js' },
+        'plausible': { domain: 'tj.naaa.top', 'selfHostedUrl': 'https://tj.naaa.top' },
     },
 
     head: [
