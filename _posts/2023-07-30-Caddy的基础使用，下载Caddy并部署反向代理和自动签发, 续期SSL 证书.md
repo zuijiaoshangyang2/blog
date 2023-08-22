@@ -1,7 +1,7 @@
 ---
 title: Caddy的基础使用，下载Caddy并部署反向代理和自动签发, 续期SSL 证书
 date: 2023-07-30T18:57:42+08:00
-lastmod: CST，China Standard Time
+lastmod: 2023-07-30T18:59:42+08:00
 tags: 
     - 🐘Linux
     - 🍬caddy
