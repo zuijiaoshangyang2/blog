@@ -1,7 +1,7 @@
 ---
 title: Cloudflare Worker使用自己的域名访问
 date: 2023-08-14T18:57:42+08:00
-lastmod: CST，China Standard Time
+lastmod: 2023-08-14T18:58:42+08:00
 tags: 
     - 🔗域名
     - ☁Cloudflare
