@@ -104,6 +104,9 @@ Twitter🐦：[神楽ひなこ](https://twitter.com/hina_yoruami)
 
 Sumimi是中文ASMR中我最喜欢的一位了，她主要在bilibili发布视频，她的视频也很优质，她拥有着一种超级可爱的声线🤗。能在bilibili上制作asmr视频获得接近100万粉丝（截至2023年8月15日）可不是盖的。这是我见过的所有ASMR创作者中声音最可爱的一位，她的视频有悄悄话角色扮演，有讲故事（中文讲故事，那感觉就是不一样，能听懂才能集中注意力。）经常穿各式各样的漂亮的衣服，比如汉服，洛丽塔，水手服等。在她的社区和bilibili动态里也经常发很多cosplay的照片。她制作的角色扮演视频是我觉得中文ASMR中最好的，她会花心思制作一个剧本，虽然很简单而且角色扮演视频有点少，但依然很棒。人们常常对自己的语言有一种尴尬症，但她的视频很自然，完全不尴尬。希望她能越做越好。她的视频给人一种安静的感觉，听着没几分钟就昏昏欲睡。总之，如果你喜欢中文ASMR，千万不要错过她。
 
+**视频展示**:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x7Dtwf-CEAY?si=h6jQYhvd7LugIjd1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 
 BiliBili频道🎑：[是Sumimi呀](https://space.bilibili.com/921044)
