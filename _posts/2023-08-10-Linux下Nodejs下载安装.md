@@ -1,7 +1,7 @@
 ---
 title: Linux下手动安装最新版nodejs
 date: 2023-08-10T18:57:42+08:00
-lastmod: CST，China Standard Time
+lastmod: 2023-08-10T19:57:42+08:00
 tags: 
     - 🐘Linux
     - 🍓nodejs
