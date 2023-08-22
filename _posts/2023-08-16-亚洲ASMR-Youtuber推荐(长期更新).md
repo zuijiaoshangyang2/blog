@@ -31,10 +31,9 @@ image: https://s2.loli.net/2023/08/20/r7EpcivIHARm4wy.webp
 ![bluekitty2.jpg](https://s2.loli.net/2023/08/20/n61BI4xbv5HCSiA.jpg)
 
 我最喜欢的YouTuber😍，她2017年6月30日在YouTube上注册至今已经有44.6万位订阅者了（截止至2023年8月15日）。她长相很漂亮，很可爱，当然在视频中的性格也是很可爱，虽说分类到日本ASMR里，因为她的视频以日语和日本受众为主。但她其实是一个混血儿，他爸爸是荷兰人，妈妈是日本人。很显然结合了欧洲人和亚洲人的美。他的视频风格多样，多以角色扮演为主，并且非常精致，她的视频不仅适合听，观赏性也非常高，她的视频有各国的字幕，并且翻译不错，她是专门招募粉丝帮她翻译。她在视频中很有趣，经常让你笑出来。台词诙谐幽默，常常无厘头。她也经常做英文视频，她会说日语英语以及荷兰语（真羡慕🥹）。她还有个弟弟，也很帅气。有时出现在她的视频中，她的人缘很好，有时和圈内来自各国的asmr创作者联动拍摄视频，好多同行从世界各地发来的片段组成一个视频，还是很有趣的。其中和她最要好的就是benio（benio店長 / ASMR屋さん）和Nozomi（hopeful_asmr）。她们经常一起拍摄视频，或者出联动视频，也经常一起出去玩，一起拍摄vlog，也经常在Instagram中发合照。还在彼此过生日时出视频拆开对方的礼物。总之，我最喜欢她的视频了👻。
-
 **视频展示**：
+<iframe width="560" height="315" id="youtube_iframe" src="https://youtu.be/ADBJfar-Qvk?si=9NZDgIsd8tNr0fZF?feature=oembed&enablejsapi=1&origin=https://safe.txmblr.com&wmode=opaque" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ADBJfar-Qvk?si=i0PTueUJbl_LnpnN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 YouTube频道🍡：[ASMR BlueKatie ](https://www.youtube.com/@ASMRBlueKatie/featured)
@@ -52,12 +51,6 @@ Twitter⛩️：[ASMR BlueKatie](https://twitter.com/ASMRBluekatie)
 ![benio.jpg](https://s2.loli.net/2023/08/20/3EvOHVWNSiyoRX1.jpg)
 
 benio将自己的频道比喻成商店，她的简介是“致力于成为像“ASMR综艺节目”一样既能看又能听到愉悦放松的商店💭。在ASMR店铺中我们提供了许多类型的 ASMR ，试着找到你最喜欢的“ ASMR· Trigger ”吧😴”，她的视频同样有很多优质的化妆和角色扮演视频，她的订阅数量甚至是112万（真是厉害😀），她的频道主要是各种Trigger，她的Trigger听起来还不错，很舒服。在一个视频中她说她以前曾在赌场当荷官（~~性感荷官，在线发牌~~）。她展示了过人的洗牌技术🐮。她和BlueKatie是好朋友，在合作的视频中，她总是看起来像个稳重的大姐姐。她还喜欢玩游戏，她的视频中有各种各样的触发器，似乎什么都能作为触发器🤯。我最喜欢她的手指敲击声音。让人听起来感到酥麻。也是我非常喜欢的日本YouTuber。
-
-**视频展示**：
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wZM0FF3bb_4?si=e2TIuec-Akan4aq1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
 
 
 
@@ -79,10 +72,6 @@ litlink💮: [benio店長](https://lit.link/en/benioASMR)
 
 她的asmr频道也不小，有41.2万（截至2023年8月15日），她擅长嘴巴发出的trigger声音，的确让人听起来很放松，让人感觉昏昏欲睡，她在视频中总是看起来很努力。她的声音也很温柔，好像带有魔力，催你快点入睡。她的YouTube简介中甚至没有什么内容，视频就是对她最好的简介。
 
-**视频展示**：
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uUh1LTVJits?si=3vy-KsxHSoqhnUse" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 
 
 YouTube🐣：[hopeful_asmr](https://www.youtube.com/@hopeful_asmr)
@@ -92,12 +81,6 @@ YouTube🐣：[hopeful_asmr](https://www.youtube.com/@hopeful_asmr)
 ![shenle.jpg](https://s2.loli.net/2023/08/21/M8yzvnQcCs59w3b.jpg)
 
 如果你喜欢吃播类型的asmr，你喜欢听咀嚼音，她或许是一个好选择，她本身是一个日本的夜光性アミューズ（夜光娱乐）团体的一名偶像，在她的视频中总有各种各样的零食和大餐。（为什么别人就吃不胖🥲？）。她在视频里的食物几乎都不重样，也能让人见识一下有趣的零食和日本的料理。不过晚上看她吃那么香的东西怎么能睡着觉😵‍💫。但依然不能否定，她的视频是非常放松的。
-
-**视频展示**：
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GuEzjWeECwM?si=lgupDstL8-uk4OXM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
 
 
 
@@ -120,11 +103,6 @@ Twitter🐦：[神楽ひなこ](https://twitter.com/hina_yoruami)
 
 Sumimi是中文ASMR中我最喜欢的一位了，她主要在bilibili发布视频，她的视频也很优质，她拥有着一种超级可爱的声线🤗。能在bilibili上制作asmr视频获得接近100万粉丝（截至2023年8月15日）可不是盖的。这是我见过的所有ASMR创作者中声音最可爱的一位，她的视频有悄悄话角色扮演，有讲故事（中文讲故事，那感觉就是不一样，能听懂才能集中注意力。）经常穿各式各样的漂亮的衣服，比如汉服，洛丽塔，水手服等。在她的社区和bilibili动态里也经常发很多cosplay的照片。她制作的角色扮演视频是我觉得中文ASMR中最好的，她会花心思制作一个剧本，虽然很简单而且角色扮演视频有点少，但依然很棒。人们常常对自己的语言有一种尴尬症，但她的视频很自然，完全不尴尬。希望她能越做越好。她的视频给人一种安静的感觉，听着没几分钟就昏昏欲睡。总之，如果你喜欢中文ASMR，千万不要错过她。
 
-**视频展示**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/x7Dtwf-CEAY?si=tsWJosGwDafM2l1T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
 
 
 BiliBili频道🎑：[是Sumimi呀](https://space.bilibili.com/921044)
@@ -139,12 +117,6 @@ YouTube频道🎍：[Sumimi ASMR](https://www.youtube.com/@sumimiasmr)
 
 丧妹同样是中文ASMR的顶流之一，她现在已经在BiliBili里有107万粉丝了（截至2023年8月15日）。她的名字就很有趣，这么漂亮的女孩与丧尸的名字形成强烈反差，莫名有些喜感，她的bilibili小号名字甚至是 ”[扎双马尾的丧尸](https://space.bilibili.com/86861820)“ 😱。她制作的角色扮演视频也还不错，但她很多角色扮演视频是那种非悄悄话的，这对我个人来说有些遗憾。她还喜欢制作一些聊天视频，这是我最喜欢她视频的地方，听着她讲述自己的故事和说一些自己的想法还是很有趣的。有时候也会读故事。她自己说她本人性格是比较内向的。而且她在YouTube上频道的运营非常佛系，总是忘记在YouTube上传视频（她自己说的🤣）。也是，毕竟在B站可是有一百多万粉丝呢。但真希望她多照顾一下YouTube吧，毕竟也有5万粉丝等着呢🥲。
 
-**视频展示**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kOtdqjyTuVM?si=IOm_zwgBbpUdjdoT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
-
 
 
 BiliBili频道🐿️：[丧妹有点跳](https://space.bilibili.com/4548018)
@@ -156,14 +128,6 @@ YouTube频道🤖：[SOMBIE丧妹](https://www.youtube.com/@sombie5145)
 ![2023-08-21 213314.png](https://s2.loli.net/2023/08/21/flcEwxgHWd3sRBT.png)
 
 她的视频更加有趣，因为她根本不在意表情管理，各种搞怪表情，很有趣，明明可以靠颜值，却偏偏靠搞笑的灵魂🤭。她的视频缺点就是很短，适合发布在抖音上，但几分钟的视频也同样不止有趣，还很放松，让人意犹未尽，真希望能够让视频长一点。她的触发器也比较丰富，总之，如果她是长视频，也一定很优秀。
-
-
-
-**视频展示**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzPyC8lJg0E?si=nkBJIw2tcT_VisVf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
 
 
 
@@ -180,10 +144,6 @@ YouTube频道🐼：[周小小ASMR](https://www.youtube.com/@ASMR_ZHOU)
 ✨第一位男性登场！这个是虎牙主播，虽说我不喜欢直播视频，因为往往质量很差，但他的直播很吸引我，虽说也是纯触发音，但他的手法非常不错，而且他看起来很有亲和力，尤其是他笑的时候，看起来很亲切。他的直播间会给我一种舒适轻松的感觉，就像那种你劳累了一周，在这里找寻一篇宁静之地。听听他在直播和弹幕的粉丝说说话，发出一些令人放松的触发音，真的很舒适。他最近在YouTube换了新号，因为他说原先的频道被坑了，所以我在这里只介绍他的新号。
 
 视频展示：
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RN2X8rMk36M?si=2eJJOMFbt3pKD4Bk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
 
 
 
@@ -232,12 +192,6 @@ Fan site🦄：[Fan site](https://cafe.naver.com/ggulggulsuna)
 
 她的视频主要就是角色扮演情景剧（🤩），她总是想出各种各样的主题和情景，真是个适合玩过家家的女孩🧐。103万粉丝陪她过家家（截至2023年8月15日）。她的视频就像是女孩玩芭比娃娃，而你就是那个芭比娃娃的第一人称视角，很有趣。她的视频剧情也很完整，我认为写出这样一个剧本也要花费一些时间，她肯定也投入了许多时间成本和个人精力，这也导致她的视频这么棒。她也会找来各种各样符合视频主题的道具，让视频内容变得丰富多彩。而且她的动作是那么温柔，声音也是，非常柔和。让你不知不觉就有困意..........😴
 
-**视频展示**（她的视频禁止嵌入播放，大家去她的频道看看吧）
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/an2kdRUZw8U?si=bzKNqjVu4d5hSE_4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
-
 
 
 YouTube频道🦒：[[ASMR]nara_나라](https://www.youtube.com/@nara.asmr.)
@@ -252,12 +206,6 @@ Instagram⛲：[asmr_nara](https://www.instagram.com/asmr_nara)
 
 她是一个韩国人，但却是个日语爱好者。她有26万粉丝（截至2023年8月15日），她的大部分视频是用日语制作的，所以日本观众非常多，她也采用角色扮演情景剧，非常有意思.她在视频中让人感觉像是个温柔的大姐姐，一边对你笑一边让你安心睡觉。在她的带动下你很快就能进入睡眠状态。一个韩国小姐姐视频底下全是日语评论，很有趣。
 
-**视频展示**：
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h7VJfMTekKo?si=RAMjejwU0BXBeyGM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
-
 
 
 YouTube频道🦕：[Zerona ASMR제로나](https://www.youtube.com/@zeronaasmr4822)
@@ -271,12 +219,6 @@ Instagram🎠：[yjoo_10.6](https://www.instagram.com/yjoo_10.6)
 ![yeonchu.jpg](https://s2.loli.net/2023/08/22/4eUcINQT1v2zC79.jpg)
 
 她的视频就全是触发音了，而且非常多嘴巴触发音。她有61.4万粉丝（截至2023年8月15日）虽说视频比较单调，但她的声音适合听，就像下雨时规律的雨声催你入眠一样，她也凭借相同的声音让你不知不觉有困意。很适合听的视频。我很喜欢她的视频的整体色调，背景有一些暗，让人看了没那么刺眼，并且有利于让你犯困，而且她的视频是随着时间而不知不觉中慢慢变暗的。最后一片漆黑。很有趣。
-
-**视频展示**：
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FzY7Y4eJfbE?si=S3tkPQljffp7LZrj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
 
 
 
@@ -297,10 +239,6 @@ Profile🐻‍❄️：[Profile](https://search.naver.com/search.naver?where=nex
 ![eunzul.jpg](https://s2.loli.net/2023/08/22/48IN9eg6UKQkPbm.jpg)
 
 她的粉丝有47.6万（截至2023年8月15日）。她的吃播非常有意思，非常多都是她自己制作的外表有趣的事物，比如可以吃的针管和胶囊，可以吃的拖鞋和口罩。她也有很多角色扮演，她在视频中看起来很活泼。奇怪但有趣的想法制作出来的视频让人眼前一亮。她拥有自己的风格。她甚至有BiliBili账号🤗。
-
-**视频展示**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rMEM53XiIiE?si=bKP2getDdH494u0B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 
