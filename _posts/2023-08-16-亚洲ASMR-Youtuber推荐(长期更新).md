@@ -232,13 +232,9 @@ Fan site🦄：[Fan site](https://cafe.naver.com/ggulggulsuna)
 
 她的视频主要就是角色扮演情景剧（🤩），她总是想出各种各样的主题和情景，真是个适合玩过家家的女孩🧐。103万粉丝陪她过家家（截至2023年8月15日）。她的视频就像是女孩玩芭比娃娃，而你就是那个芭比娃娃的第一人称视角，很有趣。她的视频剧情也很完整，我认为写出这样一个剧本也要花费一些时间，她肯定也投入了许多时间成本和个人精力，这也导致她的视频这么棒。她也会找来各种各样符合视频主题的道具，让视频内容变得丰富多彩。而且她的动作是那么温柔，声音也是，非常柔和。让你不知不觉就有困意..........😴
 
-**视频展示**（她的视频禁止嵌入播放，虽然我用了直链，但大家去她的频道看看吧）
+**视频展示**（她的视频禁止嵌入播放，大家去她的频道看看吧）
 
-<div style="position: relative; padding: 30% 45%;">
-<video style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" controls>
-    <source src="https://alist.naaa.top/d/Onedrive1/video/nara.mp4?sign=Q-SKkDEFBtT9vO6x3wUj7gZ_UE-c8apQCmVeGJWztm4=:0" type="video/mp4">
-</video>
-</div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/an2kdRUZw8U?si=bzKNqjVu4d5hSE_4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 
