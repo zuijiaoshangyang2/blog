@@ -274,7 +274,7 @@ Instagram🎠：[yjoo_10.6](https://www.instagram.com/yjoo_10.6)
 
 ![yeonchu.jpg](https://s2.loli.net/2023/08/22/4eUcINQT1v2zC79.jpg)
 
-她的视频就全是触发音了，而且非常多嘴巴触发音。虽说视频比较单调，但她的声音适合听，就像下雨时规律的雨声催你入眠一样，她也凭借相同的声音让你不知不觉有困意。很适合听的视频。我很喜欢她的视频的整体色调，背景有一些暗，让人看了没那么刺眼，并且有利于让你犯困，而且她的视频是随着时间而不知不觉中慢慢变暗的。最后一片漆黑。很有趣。
+她的视频就全是触发音了，而且非常多嘴巴触发音。她有61.4万粉丝（截至2023年8月15日）虽说视频比较单调，但她的声音适合听，就像下雨时规律的雨声催你入眠一样，她也凭借相同的声音让你不知不觉有困意。很适合听的视频。我很喜欢她的视频的整体色调，背景有一些暗，让人看了没那么刺眼，并且有利于让你犯困，而且她的视频是随着时间而不知不觉中慢慢变暗的。最后一片漆黑。很有趣。
 
 **视频展示**：
 
@@ -294,3 +294,24 @@ Profile🐻‍❄️：[Profile](https://search.naver.com/search.naver?where=nex
 
 店铺🕸️：[店铺](https://www.vwall.co.kr/)
 
+
+
+### ⚗️Eunzel ASMR 은젤
+
+![eunzul.jpg](https://s2.loli.net/2023/08/22/48IN9eg6UKQkPbm.jpg)
+
+她的粉丝有47.6万（截至2023年8月15日）。她的吃播非常有意思，非常多都是她自己制作的外表有趣的事物，比如可以吃的针管和胶囊，可以吃的拖鞋和口罩。她也有很多角色扮演，她在视频中看起来很活泼。奇怪但有趣的想法制作出来的视频让人眼前一亮。她拥有自己的风格。她甚至有BiliBili账号🤗。
+
+**视频展示**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rMEM53XiIiE?si=bKP2getDdH494u0B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
+YouTube频道🐛：[Eunzel ASMR 은젤](https://www.youtube.com/@EunbiOh)
+
+Instagram🐌：[eunbar](https://www.instagram.com/eunbar/)
+
+BiliBili频道🦐：[Eunzel은젤](https://space.bilibili.com/2067194166)
+
+Twitch📲：[eunzel](https://www.twitch.tv/)
