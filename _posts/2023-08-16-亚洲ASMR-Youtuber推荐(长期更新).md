@@ -249,3 +249,31 @@ Instagram🐌：[eunbar](https://www.instagram.com/eunbar/)
 BiliBili频道🦐：[Eunzel은젤](https://space.bilibili.com/2067194166)
 
 Twitch📲：[eunzel](https://www.twitch.tv/)
+
+
+
+### 🎭ASMR Crush on 9 
+
+![crush.jpg](https://s2.loli.net/2023/08/22/RK1I48DPbFQVioG.jpg)
+
+他的视频风格极为幽默，他做视频根本没有任何架子。各种搞怪的表情让人看着忍不住笑出来，这也让人感觉他好努力，他有时候去各种地方做trigger类视频，比如废弃的游乐园。甚至他受伤住院的时候也会做ASMR视频，真让人佩服。他的视频是快节奏的，让人听起来非常爽，很推荐的一位创作者。
+
+
+
+YouTube频道🦧：[ASMR Crush on 9](https://www.youtube.com/@crushon9)
+Instagram👅：[asmr_con9](https://www.instagram.com/asmr_con9/)
+TikTok🦭：[ASMR Crush on 9](https://www.youtube.com/redirect?event=channel_description&redir_token=QUFFLUhqbGJNVV9aVEp4cC1pUEpkc2p3QVptT3dWRk9Dd3xBQ3Jtc0trOWRMblNyU3BPYnFudFV4LUdUMHV0WUd4UUJ1TFZGY1B6OThXLXhQNGpIUWR4VFVYdTZWdFhiNktSV21fLXpPWHNvbXg2QUpkUlh6NTZYNzN4UDlmclJmNk9FTUU0TkkwdnJZeF9GNDNxZkRxUVN2bw&q=https%3A%2F%2Fwww.tiktok.com%2F%40crushon9)
+商店🏪：[Crush on 9](https://marpple.shop/kr/crushon9)
+
+
+
+###🦄ASMR Yoon ying 윤잉
+
+![yoon.jpg](https://s2.loli.net/2023/08/22/jIWPzTO7dpJZa4Y.jpg)
+
+她的视频也不错，依然是情景剧角色扮演类型的，她的视频也有各种各样的装扮，~~并且她身材不错~~🫠。她给人一种文静的感觉，她给自己的定位是制作多样化的视频。
+
+
+
+YouTube频道🦀：[ASMR Yoon ying 윤잉](https://www.youtube.com/@YoonyingASMR)
+Instagram🦉：[6ying.12](https://www.instagram.com/6ying.12/)
