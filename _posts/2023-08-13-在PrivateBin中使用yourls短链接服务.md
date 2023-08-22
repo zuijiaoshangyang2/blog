@@ -1,7 +1,7 @@
 ---
 title: 在PrivateBin中使用YOURLS短链接服务
 date: 2023-08-13T18:57:42+08:00
-lastmod: 2023-08-13T18:58:42+08:00
+lastmod: 2023-08-14T18:57:42+08:00
 tags: 
     - 🐘Linux
 author: yuniee
