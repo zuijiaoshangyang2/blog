@@ -201,11 +201,11 @@ YouTube频道👹：[怀民睡了吗 ASMR](https://www.youtube.com/@HuaiminASMR)
 
 
 
-### ASMR Suna 꿀꿀선아 
+### 🐝ASMR Suna 꿀꿀선아 
 
 ![suna.png](https://s2.loli.net/2023/08/21/JKZ9uAwvBqNxfIe.png)
 
-她的视频是我见过最精良的ASMR视频，让我震惊，第一次接触就感受到了与众不同，就像精心编排的舞台剧，一切都那么完整，视频中充满了有趣的特效，她的视频给人的感觉就像是魔法世界，呈现的视频像是科幻片，对于ASMR来说，她的视频算是众多ASMR视频中的艺术品。绝对让人感受到眼前一亮。唯一的缺点就是我不懂韩语😭，否则那一定非常棒。她的视频中也有很多有趣的对话。她的视频不再让人只想听，还想看剧情画面。她将广告做成视频主题也依然很好，我不知道她的视频会花费她多少时间，但她一定是一个脑海中有个童话世界的女孩。我愿称之为ASMR情景剧巅峰，角色扮演视频的最顶尖创作者🎉🎉🎉🎉。最让我震撼的视频就是她和一位手部残疾的魔术师合作的公益性质的ASMR视频，我第一次见一个ASMR视频可以这样传递这么有高度的思想，鼓舞人心。真希望她能出更多这种视频。"Have a good night, have a good dream and have a lovely day🧡"
+她的视频是我见过最精良的ASMR视频，让我震惊，第一次接触就感受到了与众不同，就像精心编排的舞台剧，一切都那么完整。视频中充满了有趣的特效，她的视频给人的感觉就像是魔法世界，呈现的视频像是科幻片，对于ASMR来说，她的视频算是众多ASMR视频中的艺术品。绝对让人感受到眼前一亮。难怪她能有184万粉丝（截至2023年8月15日）。唯一的缺点就是我不懂韩语😭，否则那一定非常棒。她的视频中也有很多有趣的对话。她的视频不再让人只想听，还想看剧情画面。她将广告做成视频主题也依然很好，我不知道她的视频会花费她多少时间，但她一定是一个脑海中有个童话世界的女孩。我愿称之为ASMR情景剧巅峰，角色扮演视频的最顶尖创作者🎉🎉🎉🎉。最让我震撼的视频就是她和一位手部残疾的魔术师合作的公益性质的ASMR视频，我第一次见一个ASMR视频可以这样传递这么有高度的思想，鼓舞人心。真希望她能出更多这种视频。"Have a good night, have a good dream and have a lovely day🧡"
 
 **视频展示(个人认为巅峰之作，我最喜欢的ASMR视频，没有之一。)**
 
@@ -223,3 +223,35 @@ Facebook👾：[선아 （Asmr suna）](https://www.facebook.com/kyoung.jeon.92)
 
 Audio clip🦋：[세상의 모든 소리 선아 ASMR](https://audioclip.naver.com/channels/1080)
 Fan site🦄：[Fan site](https://cafe.naver.com/ggulggulsuna)
+
+
+
+### 👑[ASMR]nara_나라
+
+![nara.jpg](https://s2.loli.net/2023/08/22/U2G8CBOkHl1jKcX.jpg)
+
+她的视频主要就是角色扮演情景剧（🤩），她总是想出各种各样的主题和情景，真是个适合玩过家家的女孩🧐。103万粉丝陪她过家家（截至2023年8月15日）。她的视频就像是女孩玩芭比娃娃，而你就是那个芭比娃娃的第一人称视角，很有趣，她的视频剧情也很完整，我认为写出这样一个剧本也要花费一些时间，她肯定也投入了许多时间成本和个人精力，这也导致她的视频这么棒。她也会找来各种各样符合视频主题的道具，让视频内容变得丰富多彩。而且她的动作是那么温柔，声音也是，非常柔和。让你不知不觉就有困意..........😴
+
+**视频展示**
+
+<div style="position: relative; padding: 30% 45%;">
+<video style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" controls>
+    <source src="https://alist.naaa.top/d/Onedrive1/video/nara.mp4?sign=Q-SKkDEFBtT9vO6x3wUj7gZ_UE-c8apQCmVeGJWztm4=:0" type="video/mp4">
+</video>
+</div>
+
+
+
+
+
+YouTube🦒：[[ASMR]nara_나라](https://www.youtube.com/@nara.asmr.)
+
+Instagram⛲：[asmr_nara](https://www.instagram.com/asmr_nara)
+
+
+
+### 🍂Zerona ASMR제로나
+
+![zerona.jpg](https://s2.loli.net/2023/08/22/nFuPgsUQOXtpTaL.jpg)
+
+她是一个韩国人，但却是个日语爱好者，她的大部分视频是用日语制作的，所以日本观众非常多，她也采用角色扮演情景剧，非常有意思，她在视频中让人感觉像是个温柔的大姐姐，让你安心睡觉。
