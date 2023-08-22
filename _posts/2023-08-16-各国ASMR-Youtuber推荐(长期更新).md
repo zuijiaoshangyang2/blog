@@ -230,9 +230,9 @@ Fan site🦄：[Fan site](https://cafe.naver.com/ggulggulsuna)
 
 ![nara.jpg](https://s2.loli.net/2023/08/22/U2G8CBOkHl1jKcX.jpg)
 
-她的视频主要就是角色扮演情景剧（🤩），她总是想出各种各样的主题和情景，真是个适合玩过家家的女孩🧐。103万粉丝陪她过家家（截至2023年8月15日）。她的视频就像是女孩玩芭比娃娃，而你就是那个芭比娃娃的第一人称视角，很有趣，她的视频剧情也很完整，我认为写出这样一个剧本也要花费一些时间，她肯定也投入了许多时间成本和个人精力，这也导致她的视频这么棒。她也会找来各种各样符合视频主题的道具，让视频内容变得丰富多彩。而且她的动作是那么温柔，声音也是，非常柔和。让你不知不觉就有困意..........😴
+她的视频主要就是角色扮演情景剧（🤩），她总是想出各种各样的主题和情景，真是个适合玩过家家的女孩🧐。103万粉丝陪她过家家（截至2023年8月15日）。她的视频就像是女孩玩芭比娃娃，而你就是那个芭比娃娃的第一人称视角，很有趣。她的视频剧情也很完整，我认为写出这样一个剧本也要花费一些时间，她肯定也投入了许多时间成本和个人精力，这也导致她的视频这么棒。她也会找来各种各样符合视频主题的道具，让视频内容变得丰富多彩。而且她的动作是那么温柔，声音也是，非常柔和。让你不知不觉就有困意..........😴
 
-**视频展示**
+**视频展示**（她的视频禁止嵌入播放，虽然我用了直链，但大家去她的频道看看吧）
 
 <div style="position: relative; padding: 30% 45%;">
 <video style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" controls>
@@ -244,7 +244,7 @@ Fan site🦄：[Fan site](https://cafe.naver.com/ggulggulsuna)
 
 
 
-YouTube🦒：[[ASMR]nara_나라](https://www.youtube.com/@nara.asmr.)
+YouTube频道🦒：[[ASMR]nara_나라](https://www.youtube.com/@nara.asmr.)
 
 Instagram⛲：[asmr_nara](https://www.instagram.com/asmr_nara)
 
@@ -254,4 +254,43 @@ Instagram⛲：[asmr_nara](https://www.instagram.com/asmr_nara)
 
 ![zerona.jpg](https://s2.loli.net/2023/08/22/nFuPgsUQOXtpTaL.jpg)
 
-她是一个韩国人，但却是个日语爱好者，她的大部分视频是用日语制作的，所以日本观众非常多，她也采用角色扮演情景剧，非常有意思，她在视频中让人感觉像是个温柔的大姐姐，让你安心睡觉。
+她是一个韩国人，但却是个日语爱好者。她有26万粉丝（截至2023年8月15日），她的大部分视频是用日语制作的，所以日本观众非常多，她也采用角色扮演情景剧，非常有意思.她在视频中让人感觉像是个温柔的大姐姐，一边对你笑一边让你安心睡觉。在她的带动下你很快就能进入睡眠状态。一个韩国小姐姐视频底下全是日语评论，很有趣。
+
+**视频展示**：
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h7VJfMTekKo?si=RAMjejwU0BXBeyGM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
+
+
+YouTube频道🦕：[Zerona ASMR제로나](https://www.youtube.com/@zeronaasmr4822)
+
+Instagram🎠：[yjoo_10.6](https://www.instagram.com/yjoo_10.6)
+
+
+
+### 🔮asmr yeonchu 연츄 
+
+![yeonchu.jpg](https://s2.loli.net/2023/08/22/4eUcINQT1v2zC79.jpg)
+
+她的视频就全是触发音了，而且非常多嘴巴触发音。虽说视频比较单调，但她的声音适合听，就像下雨时规律的雨声催你入眠一样，她也凭借相同的声音让你不知不觉有困意。很适合听的视频。我很喜欢她的视频的整体色调，背景有一些暗，让人看了没那么刺眼，并且有利于让你犯困，而且她的视频是随着时间而不知不觉中慢慢变暗的。最后一片漆黑。很有趣。
+
+**视频展示**：
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FzY7Y4eJfbE?si=S3tkPQljffp7LZrj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
+
+
+YouTube频道🛎️：[asmr yeonchu 연츄 ](https://www.youtube.com/@asmryeonchu)
+
+Instagram🪀：[y.zzu](https://www.instagram.com/y.zzu)
+
+VLOG channel🦝：[김연츄](https://www.youtube.com/channel/UCbhbaBMBCIJRT0PPxsYrbhw/about?disable_polymer=1)
+
+Profile🐻‍❄️：[Profile](https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query=%EC%97%B0%EC%B8%84)
+
+店铺🕸️：[店铺](https://www.vwall.co.kr/)
+
