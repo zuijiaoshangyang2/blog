@@ -32,7 +32,7 @@ image: https://s2.loli.net/2023/08/20/r7EpcivIHARm4wy.webp
 
 我最喜欢的YouTuber😍，她2017年6月30日在YouTube上注册至今已经有44.6万位订阅者了（截止至2023年8月15日）。她长相很漂亮，很可爱，当然在视频中的性格也是很可爱，虽说分类到日本ASMR里，因为她的视频以日语和日本受众为主。但她其实是一个混血儿，他爸爸是荷兰人，妈妈是日本人。很显然结合了欧洲人和亚洲人的美。他的视频风格多样，多以角色扮演为主，并且非常精致，她的视频不仅适合听，观赏性也非常高，她的视频有各国的字幕，并且翻译不错，她是专门招募粉丝帮她翻译。她在视频中很有趣，经常让你笑出来。台词诙谐幽默，常常无厘头。她也经常做英文视频，她会说日语英语以及荷兰语（真羡慕🥹）。她还有个弟弟，也很帅气。有时出现在她的视频中，她的人缘很好，有时和圈内来自各国的asmr创作者联动拍摄视频，好多同行从世界各地发来的片段组成一个视频，还是很有趣的。其中和她最要好的就是benio（benio店長 / ASMR屋さん）和Nozomi（hopeful_asmr）。她们经常一起拍摄视频，或者出联动视频，也经常一起出去玩，一起拍摄vlog，也经常在Instagram中发合照。还在彼此过生日时出视频拆开对方的礼物。总之，我最喜欢她的视频了👻。
 **视频展示**：
-<iframe width="560" height="315" id="youtube_iframe" src="https://youtu.be/ADBJfar-Qvk?si=9NZDgIsd8tNr0fZF?feature=oembed&enablejsapi=1&origin=https://safe.txmblr.com&wmode=opaque" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ADBJfar-Qvk?si=XmcNHL1OgrSydKEU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 
