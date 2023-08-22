@@ -1,7 +1,7 @@
 ---
 title: 闲置VPS利用计划——Docker-compose搭建PrivateBin，一个加密的剪贴板
 date: 2023-08-12T18:59:42+08:00
-lastmod: CST，China Standard Time
+lastmod: 2023-08-12T19:59:42+08:00
 tags: 
     - 🐘Linux
     - 🐋Docker
