@@ -277,3 +277,17 @@ TikTok🦭：[ASMR Crush on 9](https://www.youtube.com/redirect?event=channel_de
 
 YouTube频道🦀：[ASMR Yoon ying 윤잉](https://www.youtube.com/@YoonyingASMR)
 Instagram🦉：[6ying.12](https://www.instagram.com/6ying.12/)
+
+
+
+### 🧣ASMR PPOMO
+
+![屏幕截图 2023-08-22 123408.png](https://s2.loli.net/2023/08/22/HZBfaAR93UdqDsw.png)
+
+这个youtuber的粉丝非常多，她也是会说日本语，并制作过很多日语视频，她在视频里完全不露脸，所以凭借她的视频内容吸引了如此多的粉丝，她的视频风格多种多样，类型也很全面。她在个人简介里对自己的描述是：'PPOMO'在意大利语中意味着“番茄”（pomodori）XD 我喜欢电子游戏、动画和音乐！
+
+
+
+YouTube频道🦘：[ASMR PPOMO](https://www.youtube.com/@PPOMO)
+Twitch🦖：[PPOMODOLI](https://www.twitch.tv/ppomodoli)
+
