@@ -33,6 +33,8 @@ image: https://s2.loli.net/2023/08/20/r7EpcivIHARm4wy.webp
 我最喜欢的YouTuber😍，她2017年6月30日在YouTube上注册至今已经有44.6万位订阅者了（截止至2023年8月15日）。她长相很漂亮，很可爱，当然在视频中的性格也是很可爱，虽说分类到日本ASMR里，因为她的视频以日语和日本受众为主。但她其实是一个混血儿，他爸爸是荷兰人，妈妈是日本人。很显然结合了欧洲人和亚洲人的美。他的视频风格多样，多以角色扮演为主，并且非常精致，她的视频不仅适合听，观赏性也非常高，她的视频有各国的字幕，并且翻译不错，她是专门招募粉丝帮她翻译。她在视频中很有趣，经常让你笑出来。台词诙谐幽默，常常无厘头。她也经常做英文视频，她会说日语英语以及荷兰语（真羡慕🥹）。她还有个弟弟，也很帅气。有时出现在她的视频中，她的人缘很好，有时和圈内来自各国的asmr创作者联动拍摄视频，好多同行从世界各地发来的片段组成一个视频，还是很有趣的。其中和她最要好的就是benio（benio店長 / ASMR屋さん）和Nozomi（hopeful_asmr）。她们经常一起拍摄视频，或者出联动视频，也经常一起出去玩，一起拍摄vlog，也经常在Instagram中发合照。还在彼此过生日时出视频拆开对方的礼物。总之，我最喜欢她的视频了👻。
 
 **视频展示**：
+
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ADBJfar-Qvk?si=XmcNHL1OgrSydKEU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
@@ -105,6 +107,8 @@ Twitter🐦：[神楽ひなこ](https://twitter.com/hina_yoruami)
 Sumimi是中文ASMR中我最喜欢的一位了，她主要在bilibili发布视频，她的视频也很优质，她拥有着一种超级可爱的声线🤗。能在bilibili上制作asmr视频获得接近100万粉丝（截至2023年8月15日）可不是盖的。这是我见过的所有ASMR创作者中声音最可爱的一位，她的视频有悄悄话角色扮演，有讲故事（中文讲故事，那感觉就是不一样，能听懂才能集中注意力。）经常穿各式各样的漂亮的衣服，比如汉服，洛丽塔，水手服等。在她的社区和bilibili动态里也经常发很多cosplay的照片。她制作的角色扮演视频是我觉得中文ASMR中最好的，她会花心思制作一个剧本，虽然很简单而且角色扮演视频有点少，但依然很棒。人们常常对自己的语言有一种尴尬症，但她的视频很自然，完全不尴尬。希望她能越做越好。她的视频给人一种安静的感觉，听着没几分钟就昏昏欲睡。总之，如果你喜欢中文ASMR，千万不要错过她。
 
 **视频展示**:
+
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x7Dtwf-CEAY?si=h6jQYhvd7LugIjd1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
