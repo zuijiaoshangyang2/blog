@@ -10,7 +10,7 @@ summary: 因为我本人非常喜欢在睡前或在休息时听ASMR，所以用�
 image: https://s2.loli.net/2023/08/20/r7EpcivIHARm4wy.webp
 ---
 
-# ❤️‍🔥亚洲ASMR Youtuber推荐(长期更新)
+# 亚洲ASMR Youtuber推荐(长期更新)
 
 
 
