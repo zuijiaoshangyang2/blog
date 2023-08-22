@@ -113,7 +113,7 @@ module.exports = {
         },
         comment: {
           service: 'disqus',
-          shortname: 'demowebsite',
+          shortname: 'yuniee_777',
         },
         // newsletter: {
         //   endpoint: '/'
