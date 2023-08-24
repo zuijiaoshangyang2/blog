@@ -239,6 +239,10 @@ docker-compose up -d
 
 ip:端口（自己刚刚定义端口，如果未修改就使用8923）
 
+### 👾反向代理
+如果你觉得这样访问很不好看，想要配置反向代理然后使用自己的域名访问，请参考[Caddy的基础使用，下载Caddy并部署反向代理和自动签发, 续期SSL 证书](https://www.yunieebk.com/2023/07/30/caddy%E7%9A%84%E5%9F%BA%E7%A1%80%E4%BD%BF%E7%94%A8%EF%BC%8C%E4%B8%8B%E8%BD%BDcaddy%E5%B9%B6%E9%83%A8%E7%BD%B2%E5%8F%8D%E5%90%91%E4%BB%A3%E7%90%86%E5%92%8C%E8%87%AA%E5%8A%A8%E7%AD%BE%E5%8F%91-%E7%BB%AD%E6%9C%9Fssl-%E8%AF%81%E4%B9%A6/)
+
+
 ### 🪶后台配置
 
 打开网页之后就是这样，然后点击右上角登录按钮
