@@ -1,2 +1,2 @@
-Sitemap: https://www.yuniee.de/sitemap.xml
+Sitemap: https://www.yunieebk.com/sitemap.xml
 User-agent: *
