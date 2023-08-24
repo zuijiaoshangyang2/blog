@@ -7,7 +7,7 @@ tags:
     - 🍬caddy
 author: yuniee
 summary: 证书配置不再那么复杂，小白也能自己配置ssl
-image: https://s2.loli.net/2023/08/16/p9gUMcPu1QVJShG.jpg
+image: https://s2.loli.net/2023/08/24/6Q9TKB4hDArfXFu.png
 ---
 # Caddy的基础使用，下载Caddy并部署反向代理和自动签发, 续期SSL 证书
  ## 👺前言 
