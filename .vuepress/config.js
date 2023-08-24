@@ -64,7 +64,7 @@ module.exports = {
             {
                 name: 'yuniee',
                 avatar: '/avatars/myicon.png',
-                link: 'https://www.yuniee.de/',
+                link: 'https://www.yunieebk.com/',
                 linktext: 'Follow',
             },
             {
@@ -94,7 +94,7 @@ module.exports = {
                 },
                 {
                     type: 'mail',
-                    link: 'mailto:mail@yuniee.de',
+                    link: 'mailto:mail@yunieebk.com',
                 },
                 {
                     type: 'globe',
@@ -109,7 +109,7 @@ module.exports = {
             ],
         },
         sitemap: {
-            hostname: 'https://www.yuniee.de/'
+            hostname: 'https://www.yunieebk.com/'
         },
         comment: {
           service: 'disqus',
@@ -119,7 +119,7 @@ module.exports = {
         //   endpoint: '/'
         // },
         feed: {
-            canonical_base: 'https://www.yuniee.de/',
+            canonical_base: 'https://www.yunieebk.com/',
             sort: (entries) => reverse(sortBy(entries, 'date')),
         },
         smoothScroll: true
