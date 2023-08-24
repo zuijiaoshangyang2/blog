@@ -11,11 +11,11 @@ image: https://s2.loli.net/2023/06/19/qOhLfRHbU6IuBkD.png
 ---
 
 > 一个防止小鸡ssh断连导致任务中断的神器
-
-# 为什么需要screen指令？
+# Linux screen指令的基础应用
+## 🕷️为什么需要screen指令？
 当购买的vps网络不好，或者本地网络不稳定时，通过ssh连接总是出现断连的情况，这时当你运行一个重要的任务时突然中断，这让人很抓狂，或者当你用vps传输数据时或者备份时，突然中断，就前功尽弃了，更严重者会丢失数据。又或者你有一个任务想让他人和你一起编辑，利用screen指令就可以和别人一起共享同一个会话了。
 
-## 检查screen命令的安装
+## 🦗检查screen命令的安装
 有些vps的系统一开始并不自带screen指令，所以在使用之前你需要检查一下你的系统里是否已经安装了screen指令
 
 使用以下命令检查
@@ -24,6 +24,8 @@ image: https://s2.loli.net/2023/06/19/qOhLfRHbU6IuBkD.png
 screen -v
 ```
 当出现以下情况时就说明你已经安装了screen
+
+
 ![屏幕截图 2023-06-09 180932.png](https://s2.loli.net/2023/06/19/6ke5zuvj3pLICdl.png)
 
 
@@ -39,7 +41,7 @@ apt install screen -y
 ```bash
 yum install screen -y
 ```
-## screen的基础使用
+## 🐫screen的基础使用
 >这里我们将要使用的只是简单的使用方法
 
 - **新建一个screen会话**
@@ -91,7 +93,7 @@ screen -X -S aaa quit
 ```bash
 screen -X -S 212612 quit
 ```
-## 其它参数
+## 😶‍🌫️其它参数
 经过以上操作，我们已经掌握了screen的最简单的用法，下面是一些其它参数
 - A 　将所有的视窗都调整为目前终端机的大小。
 - d <作业名称> 　将指定的screen作业离线。
