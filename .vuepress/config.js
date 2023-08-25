@@ -13,7 +13,7 @@ module.exports = {
         }],
         ['script', {
             async: true,
-            src: 'https://www.googletagmanager.com/gtag/js?id=G-C7JDHRCBP0'
+            src: 'https://www.googletagmanager.com/gtag/js?id=G-7KNMNBQKTT'
         }],
         ['link', {
             rel: 'icon',
