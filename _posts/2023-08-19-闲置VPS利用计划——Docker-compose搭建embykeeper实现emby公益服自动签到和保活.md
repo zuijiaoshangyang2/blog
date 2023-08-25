@@ -1,18 +1,17 @@
 ---
-title: 闲置VPS利用计划——Docker compose搭建embykeeper实现emby公益服自动签到和保活
+title: 闲置VPS利用计划——DockerDocker compose搭建embykeeper实现emby公益服自动签到和保活
 date: 2023-08-19T18:57:42+08:00
 lastmod: 2023-08-20T18:57:42+08:00
 tags: 
-    - 🐘Linux
-    - 🐋Docker
     - 💻闲置VPS利用计划
+    - 🐋Docker
     - 📺EMBY
 author: yuniee
 summary: emby公益服无需每天手动签到获取积分，也不需要经常看视频保活了。
 image: https://s2.loli.net/2023/08/24/VpMi5Nvn98ysKhP.png
 ---
 
-# 闲置VPS利用计划——Docker compose搭建embykeeper实现emby公益服自动签到和保活
+# 闲置VPS利用计划——DockerDocker compose搭建embykeeper实现emby公益服自动签到和保活
 
 ## 🧜‍♂️前言
 
