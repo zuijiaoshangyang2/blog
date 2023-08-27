@@ -110,7 +110,7 @@ Sumimi是中文ASMR中我最喜欢的一位了，她主要在bilibili发布视�
 **视频展示**:
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/x7Dtwf-CEAY?si=h6jQYhvd7LugIjd1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/x7Dtwf-CEAY?si=h6jQYhvd7LugIjd1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 
@@ -178,7 +178,7 @@ YouTube频道👹：[怀民睡了吗 ASMR](https://www.youtube.com/@HuaiminASMR)
 
 **视频展示(个人认为巅峰之作，我最喜欢的ASMR视频，没有之一。)**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7RQN1TV1d58?si=wQLAggD3Ym4bT_eH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/7RQN1TV1d58?si=wQLAggD3Ym4bT_eH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 
