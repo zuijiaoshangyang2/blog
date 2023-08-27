@@ -100,13 +100,13 @@ image: https://s2.loli.net/2023/08/16/kmBTW3Uh8be6SH4.png
 3. 下载配置文件
 
    ```bash
-   wget -O /opt/privatebin/config/conf.sample.php               https://raw.githubusercontent.com/PrivateBin/PrivateBin/master/cfg/conf.sample.php
+   wget -O /opt/privatebin/config/conf.sample.php  https://raw.githubusercontent.com/PrivateBin/PrivateBin/master/cfg/conf.sample.php
    ```
 
 4. 然后将示例配置文件复制一份,并重命名
 
     ```bash
-    cp /opt/privatebin/config/conf.sample.php   opt/privatebin/config/conf.php
+    cp /opt/privatebin/config/conf.sample.php   /opt/privatebin/config/conf.php
     ```
 
 5. 进入文件夹
