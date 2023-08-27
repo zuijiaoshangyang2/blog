@@ -33,7 +33,7 @@ image: https://s2.loli.net/2023/08/22/cKZxR2u7fWQYmdD.jpg
 
 **视频展示**：
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EEF0pg9hSpQ?si=4Hyhx86CHmgZrlLZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/EEF0pg9hSpQ?si=4Hyhx86CHmgZrlLZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 
