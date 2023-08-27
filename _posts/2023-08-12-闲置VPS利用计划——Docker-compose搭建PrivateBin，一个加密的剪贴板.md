@@ -94,7 +94,7 @@ image: https://s2.loli.net/2023/08/16/kmBTW3Uh8be6SH4.png
 
 2. 修改文件夹权限
    ```bash
-   chmod 777 /root/privatebin/data
+   chmod 777 /opt/privatebin/data
    ```
 
 3. 下载配置文件
