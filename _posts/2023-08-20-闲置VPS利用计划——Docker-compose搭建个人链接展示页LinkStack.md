@@ -179,7 +179,7 @@ docker-compose up -d
 
 打开后台是这样的，因为不支持中文，所以选择英文就可以了。点击next，进入下一步。
 
-<img src="https://s2.loli.net/2023/08/28/uvCO4bDheSnzqLG.png" alt="后台1" style="zoom: 33%;" />
+<img src="https://s2.loli.net/2023/08/28/uvCO4bDheSnzqLG.png" alt="后台1" style="zoom: 70%;" />
 
 
 
@@ -187,7 +187,7 @@ docker-compose up -d
 
 
 
-<img src="https://s2.loli.net/2023/08/28/rBUGoPbtcVWhwym.png" alt="2" style="zoom:33%;" />
+<img src="https://s2.loli.net/2023/08/28/rBUGoPbtcVWhwym.png" alt="2" style="zoom:70%;" />
 
 
 
@@ -195,11 +195,11 @@ docker-compose up -d
 
 输入你设置的邮箱，自己设置一个密码，Handle后面也自己填一个，页面的名字自定义。之后点击下一步。
 
-<img src="https://s2.loli.net/2023/08/28/yHKIENMiaLlCzhb.png" alt="屏幕截图 2023-08-28 221809.png" style="zoom:33%;" />
+<img src="https://s2.loli.net/2023/08/28/yHKIENMiaLlCzhb.png" alt="屏幕截图 2023-08-28 221809.png" style="zoom:70%;" />
 
 接下来根据需求选择，分别是`开启注册`, `启用邮箱验证`，`将您的页面设为首页（个人使用建议修改为yes，否则你必须在域名后面添加/home才能访问你的链接）`
 
-<img src="https://s2.loli.net/2023/08/28/5wKdXHMky3WInsx.png" alt="屏幕截图 2023-08-28 222120.png" style="zoom:33%;" />
+<img src="https://s2.loli.net/2023/08/28/5wKdXHMky3WInsx.png" alt="屏幕截图 2023-08-28 222120.png" style="zoom:70%;" />
 
 
 
@@ -209,7 +209,7 @@ docker-compose up -d
 
 
 
-<img src="https://s2.loli.net/2023/08/28/DswOZVfp7134Qqe.png" alt="屏幕截图 2023-08-28 222625.png" style="zoom:33%;" />
+<img src="https://s2.loli.net/2023/08/28/DswOZVfp7134Qqe.png" alt="屏幕截图 2023-08-28 222625.png" style="zoom:70%;" />
 
 在网页后面加入`/home`进入后台管理页面。
 
