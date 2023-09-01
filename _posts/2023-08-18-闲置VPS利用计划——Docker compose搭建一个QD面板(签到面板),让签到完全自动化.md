@@ -6,7 +6,7 @@ tags:
     - 🐘Linux
     - 🐋Docker
     - 💻闲置VPS利用计划
-author: yunie,
+author: yuniee
 summary: 搭建一个QD面板(签到面板),可实现阿里云盘,Nodeseek,hostloc,网易云等众多站点自动签到，以及PT站自动签到及保号。
 image: https://s2.loli.net/2023/08/22/chwLGvQdjgbNymZ.png
 ---
