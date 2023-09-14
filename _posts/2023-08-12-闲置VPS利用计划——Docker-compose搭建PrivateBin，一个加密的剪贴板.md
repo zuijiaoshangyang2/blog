@@ -158,7 +158,7 @@ image: https://s2.loli.net/2023/08/16/kmBTW3Uh8be6SH4.png
     
 如果想要配置反向代理使用域名访问网页，请参考这篇文章： [Caddy的基础使用，下载Caddy并部署反向代理和自动签发, 续期SSL 证书](https://www.yunieebk.com/2023/07/30/caddy%E7%9A%84%E5%9F%BA%E7%A1%80%E4%BD%BF%E7%94%A8%EF%BC%8C%E4%B8%8B%E8%BD%BDcaddy%E5%B9%B6%E9%83%A8%E7%BD%B2%E5%8F%8D%E5%90%91%E4%BB%A3%E7%90%86%E5%92%8C%E8%87%AA%E5%8A%A8%E7%AD%BE%E5%8F%91-%E7%BB%AD%E6%9C%9Fssl-%E8%AF%81%E4%B9%A6/)
     
-在PrivateBin配置文件中配置yourls短链接请看这篇：[在PrivateBin中使用YOURLS短链接服务](https://www.yuniee.de/2023/08/13/%E5%9C%A8privatebin%E4%B8%AD%E4%BD%BF%E7%94%A8yourls%E7%9F%AD%E9%93%BE%E6%8E%A5%E6%9C%8D%E5%8A%A1/)
+在PrivateBin配置文件中配置yourls短链接请看这篇：[在PrivateBin中使用YOURLS短链接服务](https://www.yunieebk.com/2023/08/13/%E5%9C%A8privatebin%E4%B8%AD%E4%BD%BF%E7%94%A8yourls%E7%9F%AD%E9%93%BE%E6%8E%A5%E6%9C%8D%E5%8A%A1/)
     
 
 ### 配置文件详解（仅供参考）
