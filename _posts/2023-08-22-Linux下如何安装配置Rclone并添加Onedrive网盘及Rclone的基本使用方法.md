@@ -75,7 +75,7 @@ curl https://rclone.org/install.sh | sudo bash
 
 ```bash
 root@server-eucco8:~# rclone config
-2023/09/16 14:06:25 NOTICE: Config file "/root/.config/rclone/rclone.conf" not found - using defaults
+2023/08/22 14:06:25 NOTICE: Config file "/root/.config/rclone/rclone.conf" not found - using defaults
 No remotes found, make a new one?
 n) New remote
 s) Set configuration password
