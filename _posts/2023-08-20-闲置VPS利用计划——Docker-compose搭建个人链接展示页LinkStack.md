@@ -1,5 +1,5 @@
 ---
-title: 闲置VPS利用计划——Docker compose搭建个人链接展示页LinkStack
+title: 闲置VPS利用——Docker compose搭建个人链接展示页LinkStack
 date: 2023-08-20T18:57:42+08:00
 lastmod: 2023-08-21T18:57:42+08:00
 tags: 
@@ -11,7 +11,7 @@ summary: 搭建一个个人主页，展示你的个人链接，让大家更好�
 image: https://s2.loli.net/2023/08/27/IxPmdavn8wcoW5g.png
 ---
 
-# 闲置VPS利用计划——Docker compose搭建个人链接展示页LinkStack
+# 闲置VPS利用——Docker compose搭建个人链接展示页LinkStack
 
 ## 🦜前言
 
