@@ -133,7 +133,7 @@ signature = "XXXXXX"
 apiurl = "https://example.com/yourls-api.php"
 ```
 
-这样保存配置然后重启PrivateBin服务就可以生效了。因为我用的`docker-compose`安装（见   [闲置VPS利用计划——Docker-compose搭建PrivateBin，一个加密的剪贴板](https://www.yunieebk.com/2023/08/12/%E9%97%B2%E7%BD%AEvps%E5%88%A9%E7%94%A8%E8%AE%A1%E5%88%92-docker-compose%E6%90%AD%E5%BB%BAprivatebin%EF%BC%8C%E4%B8%80%E4%B8%AA%E5%8A%A0%E5%AF%86%E7%9A%84%E5%89%AA%E8%B4%B4%E6%9D%BF/)），所以我在`docker-compose.yml`所在目录下直接运行`docker-compose down`然后`docker-compose up -d`
+这样保存配置然后重启PrivateBin服务就可以生效了。因为我用的`docker-compose`安装（见   [闲置VPS利用——Docker-compose搭建PrivateBin，一个加密的剪贴板](https://www.yunieebk.com/2023/08/12/%E9%97%B2%E7%BD%AEvps%E5%88%A9%E7%94%A8%E8%AE%A1%E5%88%92-docker-compose%E6%90%AD%E5%BB%BAprivatebin%EF%BC%8C%E4%B8%80%E4%B8%AA%E5%8A%A0%E5%AF%86%E7%9A%84%E5%89%AA%E8%B4%B4%E6%9D%BF/)），所以我在`docker-compose.yml`所在目录下直接运行`docker-compose down`然后`docker-compose up -d`
 
 再次打开页面，在保存内容后你就能看见这个按钮了，点击后就直接变成了短链接，并且在你的YOURLS里有记录了。
 
