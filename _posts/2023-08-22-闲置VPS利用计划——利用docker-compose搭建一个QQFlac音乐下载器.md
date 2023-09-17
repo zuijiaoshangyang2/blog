@@ -1,5 +1,5 @@
 ---
-title: 闲置VPS利用计划——利用docker-compose搭建一个QQFlac音乐下载器
+title: 闲置VPS利用——使用docker-compose搭建一个QQFlac音乐下载器
 date: 2023-08-22T18:57:42+08:00
 lastmod: 2023-08-23T18:57:42+08:00
 tags: 
@@ -11,7 +11,7 @@ summary: 搭建一个QQ音乐无损音乐下载器，不需要再充绿钻会员
 image: https://s2.loli.net/2023/08/30/ePp7NzMVUOmiaCq.jpg
 ---
 
-# 闲置VPS利用计划——利用docker-compose搭建一个QQFlac音乐下载器
+# 闲置VPS利用——使用docker-compose搭建一个QQFlac音乐下载器
 
 ## 🦬前言
 
