@@ -1,5 +1,5 @@
 ---
-title: 闲置VPS利用计划——Docker compose搭建一个QD面板(签到面板),让签到完全自动化
+title: 闲置VPS利用——Docker compose搭建一个QD面板(签到面板),让签到完全自动化
 date: 2023-08-18T18:57:42+08:00
 lastmod: 2023-08-19T20:57:42+08:00
 tags: 
@@ -11,7 +11,7 @@ summary: 搭建一个QD面板(签到面板),可实现阿里云盘,Nodeseek,hostl
 image: https://s2.loli.net/2023/08/22/chwLGvQdjgbNymZ.png
 ---
 
-# 闲置VPS利用计划——Docker compose搭建一个QD面板(签到面板),让签到完全自动化
+# 闲置VPS利用——Docker compose搭建一个QD面板(签到面板),让签到完全自动化
 
 ## 🪱前言
 
