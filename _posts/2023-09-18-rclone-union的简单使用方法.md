@@ -59,7 +59,7 @@ vim /root/.config/rclone
 ```bash
 [union(可自定义)]
 type = union
-remotes = onedrive1:/  onedrive2:/  google1:/  webdav:/
+upstreams = onedrive1:/  onedrive2:/  google1:/  webdav:/
 ```
 
 然后输入`:`加`wq`保存，然后再次输入rclone config就可以看见已经多了一个名为union的名称。如果你挂载union到本地就会看见这个目录下分别有 onedrive1 onedrive2 google1 webdav目录，里面的内容就是各个网盘的根目录内容。
@@ -71,7 +71,7 @@ remotes = onedrive1:/  onedrive2:/  google1:/  webdav:/
 ```bash
 [union(可自定义)]
 type = union
-remotes = onedrive1:/emby  onedrive2:/movie  google1:/TV  webdav:/9kg
+upstreams = onedrive1:/emby  onedrive2:/movie  google1:/TV  webdav:/9kg
 ```
 
 按照上面同样的方法保存退出文件就可以了。
