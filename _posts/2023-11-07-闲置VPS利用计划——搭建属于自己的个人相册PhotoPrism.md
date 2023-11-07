@@ -102,7 +102,7 @@ wget https://dl.photoprism.app/docker/docker-compose.yml
 
 3. 以下为配置文件中文翻译内容（来自chatgpt）：
 
-```bash
+```yaml
 version: '3.5'
 
 # PhotoPrism的Docker Compose配置文件示例（Linux / AMD64）
