@@ -11,6 +11,11 @@ module.exports = {
             'data-domain': 'tj.naaa.top',
             src: 'https://tj.naaa.top/js/script.js'
         }], 
+        ["script", {
+            "data-ad-client": "ca-pub-1601618516206303",
+            async: true,
+            src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
+        }],
         ['link', {
             rel: 'icon',
             href: `/mylogo.png`
