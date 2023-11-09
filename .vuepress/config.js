@@ -10,16 +10,7 @@ module.exports = {
             defer: true,
             'data-domain': 'tj.naaa.top',
             src: 'https://tj.naaa.top/js/script.js'
-        }],
-        ['script', {
-            async: true,
-            src: 'https://www.googletagmanager.com/gtag/js?id=G-7KNMNBQKTT'
-        }],
-        ['script', {
-            async: true,
-            src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5818850638223663',
-            crossorigin: 'anonymous'
-        }]    
+        }], 
         ['link', {
             rel: 'icon',
             href: `/mylogo.png`
