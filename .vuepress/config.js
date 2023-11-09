@@ -12,7 +12,7 @@ module.exports = {
             src: 'https://tj.naaa.top/js/script.js'
         }], 
         ["script", {
-            "data-ad-client": "ca-pub-1601618516206303",
+            "data-ad-client": "ca-pub-5818850638223663",
             async: true,
             src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
         }],
