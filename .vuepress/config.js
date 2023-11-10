@@ -64,7 +64,7 @@ module.exports = {
         authors: [
             {
                 name: 'yuniee',
-                avatar: '/avatars/myicon.png',
+                avatar: '/avatars/myicon.webp',
                 link: 'https://www.yunieebk.com/',
                 linktext: 'Follow',
             },
