@@ -10,6 +10,10 @@ summary: 证书配置不再那么复杂，小白也能自己配置ssl
 image: https://s2.loli.net/2023/08/24/6Q9TKB4hDArfXFu.png
 ---
 # Caddy的基础使用，下载Caddy并部署反向代理和自动签发, 续期SSL 证书
+<InArticleAdsense
+    data-ad-client="ca-pub-5818850638223663"
+    data-ad-slot="1327307385">
+</InArticleAdsense>
  ## 👺前言 
 
 ​        通常觉得一台服务器上只部署一个服务显得服务器太过空闲，有些性能的浪费（~~我们要榨干它的最后一点资源~~）。但在一个只有一条独立IPV4的服务器上只有一个80端口(HTTP)和一个443端口(Https),当我们想要部署多个网站时我们就需要使用不同的端口，但因此当我们去访问这些网站时就必须以IP+端口的方式访问网站，这通常不太优雅。所以我们需要反向代理来将这些网站反向代理到80或443端口，让我们可以通过一条域名访问。并且我们可以不需要担心ssl证书的申请和续期了。
@@ -144,6 +148,9 @@ a.example.me {
     }
 }
 ```
-
+<InArticleAdsense
+    data-ad-client="ca-pub-5818850638223663"
+    data-ad-slot="1327307385">
+</InArticleAdsense>
 
 
