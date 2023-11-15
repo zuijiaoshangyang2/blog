@@ -265,3 +265,7 @@ docker-compose up -d
 ## 🐽后记
 
 进入后台后可以设置中文并根据你的需要管理库和预览质量更改主题等，可以自行去探索。个人觉得界面还是比较简洁美观的。另外还支持webdav，就算是小硬盘也可以使用。
+<InArticleAdsense
+    data-ad-client="ca-pub-5818850638223663"
+    data-ad-slot="1327307385">
+</InArticleAdsense>
