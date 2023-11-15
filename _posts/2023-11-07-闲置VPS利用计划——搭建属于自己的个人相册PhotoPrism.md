@@ -12,6 +12,10 @@ image: https://s2.loli.net/2023/11/07/HT7Qgz1KuxFMGdO.jpg
 ---
 
 # 闲置VPS利用计划——搭建属于自己的个人相册PhotoPrism
+<InArticleAdsense
+    data-ad-client="ca-pub-5818850638223663"
+    data-ad-slot="1327307385">
+</InArticleAdsense>
 
 ## 🥳前言
 
