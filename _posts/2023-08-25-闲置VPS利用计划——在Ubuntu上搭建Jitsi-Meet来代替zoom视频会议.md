@@ -11,7 +11,10 @@ image: https://s2.loli.net/2023/09/13/duFR3I8g5hULQMp.jpg
 ---
 
 # 闲置VPS利用——在Ubuntu上搭建Jitsi Meet来代替zoom视频会议
-
+<InArticleAdsense
+    data-ad-client="ca-pub-5818850638223663"
+    data-ad-slot="1327307385">
+</InArticleAdsense>
 ## 🦌前言
 
 当今世界，远程协作和远程沟通已经成为日常工作生活中不可或缺的一部分。而视频通话软件在这个领域扮演着至关重要的角色。Jitsi Meet是一个开源的、安全可靠的视频通话平台，它为用户提供了一个简单而强大的方式来进行实时的远程协作和交流。
@@ -197,3 +200,7 @@ sudo apt install jitsi-meet
 ## 🤼‍♀️后记
 
 在安卓上使用时你可以在谷歌商店下载官方应用，安装完成后，你将拥有一个功能强大的视频通话平台，可以与他人进行高清视频通话、共享屏幕、发送聊天消息以及记录会议内容。你可以邀请他人加入你的会议，无论他们是使用Jitsi Meet客户端还是通过浏览器访问。
+<InArticleAdsense
+    data-ad-client="ca-pub-5818850638223663"
+    data-ad-slot="1327307385">
+</InArticleAdsense>
