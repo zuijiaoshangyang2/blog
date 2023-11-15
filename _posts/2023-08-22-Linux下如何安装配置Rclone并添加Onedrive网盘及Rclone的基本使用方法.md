@@ -12,7 +12,10 @@ image: https://s2.loli.net/2023/08/30/wg7xna2eBVpcWGA.png
 ---
 
 # Linux下如何安装配置Rclone并添加Onedrive网盘及Rclone的基本使用方法
-
+<InArticleAdsense
+    data-ad-client="ca-pub-5818850638223663"
+    data-ad-slot="1327307385">
+</InArticleAdsense>
 ## 🐶前言
 
 Rclone是一款强大而灵活的开源命令行工具，它在Linux系统上为用户提供了便捷的云存储管理解决方案。通过Rclone，您可以轻松地连接、同步和管理各种云存储服务，包括Google Drive、Dropbox、Amazon S3，以及本文所关注的微软OneDrive。无论您是希望备份重要文件，还是需要在多个云存储服务之间传输数据，Rclone都为您提供了一个统一的、命令行界面的工具，为Linux用户提供了无限的可能性。通过rclone，我们可以将网盘挂载到vps中，给小硬盘vps扩容，此功能还能用于emby网盘影库挂载。也可使用rclone增量备份文件以及迁移网盘和vps或网盘与网盘之间的数据。
@@ -360,3 +363,7 @@ rclone delete remote:path
 ## 🐞后记
 
 rclone运行期间你可以配合screen指令来实现关闭ssh后继续运行rclone，并且随时可以调用出来查看进度，关于screen命令的使用可见这篇文章：[Linux screen指令的基础应用](https://www.yunieebk.com/2023/07/15/linux-screen%E6%8C%87%E4%BB%A4%E7%9A%84%E5%9F%BA%E7%A1%80%E5%BA%94%E7%94%A8/)，总得来说，rclone功能强大，文件操作可靠，是个非常实用的工具。
+<InArticleAdsense
+    data-ad-client="ca-pub-5818850638223663"
+    data-ad-slot="1327307385">
+</InArticleAdsense>
