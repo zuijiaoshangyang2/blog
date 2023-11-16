@@ -11,7 +11,10 @@ image: https://s2.loli.net/2023/10/11/otVGWrjgfTZ9XyC.webp
 ---
 
 # VPS测评留档——HosTeons美国洛杉矶5美元1c4g独享cpu小母鸡
-
+<InArticleAdsense
+    data-ad-client="ca-pub-5818850638223663"
+    data-ad-slot="1327307385">
+</InArticleAdsense>
 ## 🫥配置
 
 ```bash
@@ -256,4 +259,7 @@ Full Test       | https://browser.geekbench.com/v6/cpu/3026708
 
 YABS completed in 12 min 44 sec
 ```
-
+<InArticleAdsense
+    data-ad-client="ca-pub-5818850638223663"
+    data-ad-slot="1327307385">
+</InArticleAdsense>
