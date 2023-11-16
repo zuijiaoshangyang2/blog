@@ -13,6 +13,11 @@ image: https://s2.loli.net/2023/08/30/ePp7NzMVUOmiaCq.jpg
 
 # 闲置VPS利用——使用docker-compose搭建一个QQFlac音乐下载器
 ## ❗本项目作者暂时没更新docker，所以请使用python的方式部署，在GitHub界面作者有详细的说明
+<InArticleAdsense
+    data-ad-client="ca-pub-5818850638223663"
+    data-ad-slot="1327307385">
+</InArticleAdsense>
+
 ## 🦬前言
 
 ### 🥸项目简介
