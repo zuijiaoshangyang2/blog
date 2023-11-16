@@ -6,7 +6,7 @@ tags:
     - 🐘Linux
     - 🍓nodejs
     - 📕blog
-    = 👾Vue
+    - 👾Vue
 author: yuniee
 summary: 在GitHub Actions的workflow中安装并使用vuepress插件，让广告出现的位置尽在掌握之中。
 image: https://s2.loli.net/2023/11/16/qUpjaL6CGErlnmJ.webp
