@@ -15,6 +15,7 @@ image: https://s2.loli.net/2023/10/11/otVGWrjgfTZ9XyC.webp
     data-ad-client="ca-pub-5818850638223663"
     data-ad-slot="1327307385">
 </InArticleAdsense>
+
 ## 🫥配置
 
 ```bash
