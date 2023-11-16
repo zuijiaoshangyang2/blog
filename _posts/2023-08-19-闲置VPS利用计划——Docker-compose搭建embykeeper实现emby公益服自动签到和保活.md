@@ -12,7 +12,10 @@ image: https://s2.loli.net/2023/08/24/VpMi5Nvn98ysKhP.png
 ---
 
 # 闲置VPS利用——Docker compose搭建embykeeper实现emby公益服自动签到和保活
-
+<InArticleAdsense
+    data-ad-client="ca-pub-5818850638223663"
+    data-ad-slot="1327307385">
+</InArticleAdsense>
 ## 🧜‍♂️前言
 
 每天在群里蹲着抢注了那么多emby公益服，因为是公益服，所以都是公益服服主免费分享给大家的服务（感谢公益服主们的无私分享🫡）。所以我也希望大家都不要注册账号后不使用，这会占用真的想要看公益服的人的注册资格。因为签到保号项目本就是公益服主们用来筛选真正需要账号的用户使用的。但有时你真的需要看emby，但是这段时间很忙，或者你害怕总是忘记签到，这个时候我们才用到本项目。希望大家按需使用。
@@ -129,7 +132,10 @@ docker-compose up -d
 
 它就会在后台运行了，我们可以通过输入 `docker logs -f embykeeper` 或 `docker-compose logs -f embykeeper` 以查看最新日志。
 
-
+<InArticleAdsense
+    data-ad-client="ca-pub-5818850638223663"
+    data-ad-slot="1327307385">
+</InArticleAdsense>
 
 ## 🐨后记
 
@@ -209,3 +215,7 @@ unique_name = "your_username_for_registeration" # 自动抢注时使用的用户
 [monitor.pornemby]
 only_history = true # 仅当问题历史中找到答案时自动回答
 ```
+<InArticleAdsense
+    data-ad-client="ca-pub-5818850638223663"
+    data-ad-slot="1327307385">
+</InArticleAdsense>
