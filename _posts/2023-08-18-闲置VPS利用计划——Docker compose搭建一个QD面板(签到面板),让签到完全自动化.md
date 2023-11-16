@@ -12,6 +12,10 @@ image: https://s2.loli.net/2023/08/22/chwLGvQdjgbNymZ.png
 ---
 
 # 闲置VPS利用——Docker compose搭建一个QD面板(签到面板),让签到完全自动化
+<InArticleAdsense
+    data-ad-client="ca-pub-5818850638223663"
+    data-ad-slot="1327307385">
+</InArticleAdsense>
 
 ## 🪱前言
 
@@ -286,6 +290,10 @@ ip:端口（自己刚刚定义端口，如果未修改就使用8923）
 ## 🧜‍♂️后记
 ### 👽第三方模板仓库
 尽管公共模板已经很全面了但还有一些公共模板里没有的，比如Nodeseek，阿里云盘等，你可以去这里找找 : [[整理自用qiandao 框架可用的各种网站和App的Har 模板](https://github.com/wjf0214/qd-templates)]。
+<InArticleAdsense
+    data-ad-client="ca-pub-5818850638223663"
+    data-ad-slot="1327307385">
+</InArticleAdsense>
 
 ### 🦧参考的配置文件
 
@@ -351,4 +359,7 @@ ip:端口（自己刚刚定义端口，如果未修改就使用8923）
 |      WS_MAX_QUEUE_SIZE       |    No    |                             100                              |            WebSocket 最大消息队列大小, 默认为 100            |
 | WS_MAX_CONNECTIONS_SUBSCRIBE |    No    |                              30                              |       WebSocket 公共模板更新页面最大连接数, 默认为 30        |
 |   SUBSCRIBE_ACCELERATE_URL   |    No    |                         jsdelivr_cdn                         | 订阅加速方式或地址, 用于加速公共模板更新, 仅适用于 GitHub.[详见配置](https://github.com/qd-today/qd/blob/master/config.py)... |
-
+<InArticleAdsense
+    data-ad-client="ca-pub-5818850638223663"
+    data-ad-slot="1327307385">
+</InArticleAdsense>
