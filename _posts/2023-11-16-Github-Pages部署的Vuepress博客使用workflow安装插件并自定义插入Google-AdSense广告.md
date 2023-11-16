@@ -101,7 +101,7 @@ jobs:
       - name: Install Google analytics plugin
         run: yarn add -D @vuepress/plugin-google-analytics
       - name: Add vue-script2 and vue-google-adsense
-        run: yarn add vue-script2 vue-google-adsense         //我添加到了这里
+        run: yarn add vue-script2 vue-google-adsense         #我添加到了这里
       - name: vuepress-deploy
         uses: jenkey2011/vuepress-deploy@master
         env:
