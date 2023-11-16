@@ -13,10 +13,10 @@ image: https://s2.loli.net/2023/11/16/qUpjaL6CGErlnmJ.webp
 ---
 
 # Github Pages部署的Vuepress博客使用workflow安装vue-google-adsens插件并自定义插入Google AdSense广告
-
-<InArticleAdsense    data-ad-client="ca-pub-5818850638223663"    data-ad-slot="1327307385"> </InArticleAdsense>
-
-
+<InArticleAdsense
+    data-ad-client="ca-pub-5818850638223663"
+    data-ad-slot="1327307385">
+</InArticleAdsense>
 
 ## 🐖前提
 
@@ -161,5 +161,10 @@ export default ({
 ## 🐻‍❄️后记
 
 最好在插入广告代码后空出一行，否则会出现显示上的问题。
+<InArticleAdsense
+    data-ad-client="ca-pub-5818850638223663"
+    data-ad-slot="1327307385">
+</InArticleAdsense>
+
 
 <InArticleAdsense    data-ad-client="ca-pub-5818850638223663"    data-ad-slot="1327307385"> </InArticleAdsense>
