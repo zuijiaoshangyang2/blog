@@ -9,7 +9,7 @@ tags:
     - 👾Vue
 author: yuniee
 summary: 在GitHub Actions的workflow中安装并使用vuepress插件，让广告出现的位置尽在掌握之中。
-image: https://s2.loli.net/2023/11/16/qUpjaL6CGErlnmJ.webp
+image: https://s2.loli.net/2023/11/16/sZdzqYXgRjrC5vD.jpg
 ---
 
 # Github Pages部署的Vuepress博客使用workflow安装vue-google-adsens插件并自定义插入Google AdSense广告
