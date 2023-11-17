@@ -58,15 +58,6 @@ module.exports = {
             content: 'width=device-width, initial-scale=1.0'
         }]
     ],
-   plugins: [
-    [
-      "copy-code1",
-      {
-        
-      },
-    ],
-  ],
-
     themeConfig: {
         logo: '/avatars/mylogo.png',
         pwa: false,
