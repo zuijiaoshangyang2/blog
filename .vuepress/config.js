@@ -59,11 +59,11 @@ module.exports = {
         }]
     ],
     plugins: [
-    ["copy-code1", {
+        ['copy-code1', {
            copy: '复制代码',
            hint: '复制成功🎊',
            showInMobile: true,
-       }],
+        }],
     ],
     themeConfig: {
         logo: '/avatars/mylogo.png',
