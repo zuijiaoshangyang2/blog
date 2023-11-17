@@ -5,7 +5,7 @@ module.exports = {
     base: '/',
     description: '记录一些基础但有用的玩机指南，然后我想写啥写啥，希望这里有适合你的内容',
     theme: require.resolve('../../'),
-    head: [
+    head: [        
         ['script', {
             defer: true,
             'data-domain': 'tj.naaa.top',
@@ -58,6 +58,19 @@ module.exports = {
             content: 'width=device-width, initial-scale=1.0'
         }]
     ],
+     plugins: [
+    [
+      'copy-code1',
+      {
+        'zh-CN': {
+          copy: '复制代码',
+          hint: '复制成功🎊',
+          showInMobile: true, // 在移动端显示复制按钮
+        },
+      },
+    ],
+  ],    
+
     themeConfig: {
         logo: '/avatars/mylogo.png',
         pwa: false,
