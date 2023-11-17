@@ -58,19 +58,13 @@ module.exports = {
             content: 'width=device-width, initial-scale=1.0'
         }]
     ],
-     plugins: [
-    [
-      'copy-code1',
-      {
-        'zh-CN': {
-          copy: '复制代码',
-          hint: '复制成功🎊',
-          showInMobile: true, // 在移动端显示复制按钮
-        },
-      },
+    plugins: [
+    ["copy-code1", {
+           copy: '复制代码',
+           hint: '复制成功🎊',
+           showInMobile: true,
+       }],
     ],
-  ],    
-
     themeConfig: {
         logo: '/avatars/mylogo.png',
         pwa: false,
