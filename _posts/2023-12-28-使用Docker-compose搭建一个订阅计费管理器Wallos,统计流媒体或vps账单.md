@@ -9,7 +9,7 @@ tags:
     - 💻闲置VPS利用计划
 author: yuniee
 summary: 搭建一个Personal Subscription Tracker，管理流媒体，vps或其他订阅制的账单统计，看看自己一年为此究竟花了多少钱。
-image: https://s2.loli.net/2023/08/16/gtA7jq8Jafi34oK.web
+image: https://s2.loli.net/2023/12/28/8K9IitbpurAVmcy.png
 ---
 
 # 使用Docker-compose搭建一个订阅计费管理器Wallos,统计流媒体或vps账单
