@@ -176,7 +176,6 @@ docker-compose up -d
 
 打开网页会让我们先创建一个登录账号，并选择自己使用的货币
 
-0
 
 ![屏幕截图 2023-12-28 121606.png](https://s2.loli.net/2023/12/28/v1BD8HeRN7TYPGk.png)
 
