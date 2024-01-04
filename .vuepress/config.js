@@ -99,7 +99,7 @@ module.exports = {
                 },
                 {
                     type: 'globe',
-                    link: 'https://tj.naaa.top/tj.naaa.top',
+                    link: 'https://www.yunieebk.com/',
                 },
             ],
         copyright: [
