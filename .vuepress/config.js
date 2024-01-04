@@ -7,9 +7,9 @@ module.exports = {
     theme: require.resolve('../../'),
     head: [        
         ['script', {
-            defer: true,
-            'data-domain': 'tj.naaa.top',
-            src: 'https://tj.naaa.top/js/script.js'
+            async: true,
+            'data-website-id': '5c55dcab-115e-4cca-a26c-eca2276dfe02',
+            src: 'https://tj.naaa.top/script.js',
         }], 
         ["script", {
             "data-ad-client": "ca-pub-5818850638223663",
