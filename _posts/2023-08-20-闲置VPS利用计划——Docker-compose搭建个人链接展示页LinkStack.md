@@ -1,6 +1,7 @@
 ---
 title: 闲置VPS利用——Docker compose搭建个人链接展示页LinkStack
 date: 2023-08-20T18:57:42+08:00
+permalink: /linkstack
 lastmod: 2023-08-21T18:57:42+08:00
 tags: 
     - 🐘Linux
