@@ -23,7 +23,7 @@ image: https://s2.loli.net/2024/01/17/7hXwqL8GBdrlRCo.jpg
 
 ## 🐙前言
 
-以前在和外国人交流或者翻译各种语言的单词或句子时就会使用Google translator，或者是deepl，之前deepl的确是很神的，翻译效果很好，但最近表现一般，尤其是chatgpt出来之后，其翻译能力对待以前的翻译软件可以称得上是降维打击。所以我们想要ai翻译软件。但由于ai热度很高，所以无论是谷歌商店还是其他地方都出现了一大把蹭热度的假ai翻译软件，或者需要收取远高于成本的费用。购买别人注册的一个api key仅仅几块钱，自己注册更是便宜。况且还有不良林大佬分享的免费获取api key的方法([不良林的Youtube视频](https://youtu.be/yndqfXr_qPg?si=6cOqlN9kgdr-ddYG))。
+以前在和外国人交流或者翻译各种语言的单词或句子时就会使用Google translator，或者是deepl，之前deepl的确是很神的，翻译效果很好，但最近表现一般，尤其是chatgpt出来之后，其翻译能力对以前的翻译软件来说可以称得上是降维打击。所以我想要找ai翻译软件。但由于ai热度很高，所以无论是谷歌商店还是其他地方都出现了一大把蹭热度的假ai翻译软件，或者需要收取远高于成本的费用。购买别人注册的一个api key仅仅几块钱，自己注册更是便宜。况且还有不良林大佬分享的免费获取api key的方法([不良林的Youtube视频](https://youtu.be/yndqfXr_qPg?si=6cOqlN9kgdr-ddYG))。
 
 
 
