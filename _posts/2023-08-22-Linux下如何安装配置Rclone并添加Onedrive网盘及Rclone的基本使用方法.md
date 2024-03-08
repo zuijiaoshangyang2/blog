@@ -209,7 +209,7 @@ Storage> 31
 
 ```
 
-接下来只需要使用空格使用默认选项
+接下来只需要使用回车使用默认选项
 
 ```bash
 Option client_secret.
@@ -251,7 +251,7 @@ n) No
 y/n> n
 ```
 
-输入{你的token}后一直输入空格，直到出现以下界面
+输入{你的token}后一直输入回车，直到出现以下界面
 
 ```bash
 Current remotes:
