@@ -2,7 +2,7 @@
 title: Docker搭建openai-translator：在网页端使用chatgpt的api开启类似谷歌翻译的高效翻译之旅，顺便介绍两个openai翻译插件
 permalink: /openai_translator
 date: 2024-01-17T10:57:42+08:00
-lastmod: 2024-1-17T19:57:42+08:00
+lastmod: 2024-01-17T19:57:42+08:00
 tags: 
     - 🐘Linux
     - 💻闲置VPS利用计划
