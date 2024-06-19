@@ -22,7 +22,7 @@ image: https://s2.loli.net/2024/06/19/XQLa536RzTtyxAM.png
 
 ## 🐁前言
 
-​       当使用的操作系统硬盘非常小，不够使用的时候除了添加磁盘等解决方法外，还可以采用webdav的方法来挂载一个网络磁盘。这个方式的成本较低，且也比较灵活。支持webdav的网盘有很多，比如[infini cloud](https://infini-cloud.net/en)（如注册可以使用我的邀请码`32VVG`增加5GB的空间），以及一些自建网盘程序，如[Cloudreve](https://docs.cloudreve.org/)等，当然[alist](https://alist.nn.ci/zh/guide/webdav.html)可以将大多数网盘转换为webdav的形式，所以使用webdav是一个比较不错的选择。
+​       当使用的操作系统硬盘非常小，不够使用的时候除了添加磁盘等解决方法外，还可以采用webdav的方法来挂载一个网络磁盘。这个方式的成本较低，且也比较灵活。支持webdav的网盘有很多，比如[infini cloud](https://infini-cloud.net)（如注册可以使用我的邀请码`32VVG`增加5GB的空间），以及一些自建网盘程序，如[Cloudreve](https://docs.cloudreve.org/)等，当然[alist](https://alist.nn.ci/zh/guide/webdav.html)可以将大多数网盘转换为webdav的形式，所以使用webdav是一个比较不错的选择。
 
 ## 🦡使用davfs2挂载网盘
 
