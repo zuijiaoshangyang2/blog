@@ -12,6 +12,10 @@ image: https://s2.loli.net/2024/06/19/ewn8gpsl3UJDcdo.png
 ---
 
 # 配置systemd实现rclone开机自动挂载
+<InArticleAdsense
+    data-ad-client="ca-pub-5818850638223663"
+    data-ad-slot="1327307385">
+</InArticleAdsense>
 
 ## 🫎前言
 
@@ -123,5 +127,10 @@ systemctl daemon-reload
 ```bash
 systemctl enable rclone-mount.service
 ```
+<InArticleAdsense
+    data-ad-client="ca-pub-5818850638223663"
+    data-ad-slot="1327307385">
+</InArticleAdsense>
+
 
 来实现开机自启了。
