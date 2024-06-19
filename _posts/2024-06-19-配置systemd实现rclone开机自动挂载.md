@@ -83,6 +83,11 @@ nano /root/rclone_mount.sh
 rclone mount union:/ /opt/movie --allow-other --attr-timeout 5m --vfs-cache-mode full --vfs-cache-max-age 3h --vfs-cache-max-size 25G --vfs-read-chunk-size-limit 100M --buffer-size 256M --daemon
 ```
 
+在这之后给脚本添加执行权限：
+```bash
+chmod +x /root/rclone_mount.sh
+```
+
 然后配置`/etc/systemd/system/rclone-mount.service`
 
 ```bash
