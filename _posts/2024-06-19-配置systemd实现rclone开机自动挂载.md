@@ -52,7 +52,7 @@ RestartSec=10
 WantedBy=multi-user.target
 ```
 
-**这里的`ExecStart`部分修改为你自己的rclone挂载参数。**
+**这里的`ExecStart`部分修改为你自己的rclone挂载参数。ExecStop后的`/opt/movie`修改为自己的挂载路径**
 
 接下来重新加载systemd,输入：
 
