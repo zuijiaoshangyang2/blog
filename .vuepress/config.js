@@ -3,7 +3,7 @@ const { reverse, sortBy } = require('lodash')
 module.exports = {
     title: '云匿博客',
     base: '/',
-    description: '记录一些基础但有用的玩机指南，然后我想写啥写啥，希望这里有适合你的内容',
+    description: '记录一些基础但有用的玩机指南，还有我随心分享的各种内容，希望你能在这里找到你想要的',
     theme: require.resolve('../../'),
     head: [        
         ['script', {
