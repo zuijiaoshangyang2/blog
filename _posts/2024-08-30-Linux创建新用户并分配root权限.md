@@ -1,5 +1,5 @@
 ---
-title: Linux创建新用户并分配root权
+title: Linux创建新用户并分配root权限
 permalink: /adduserroot
 date: 2024-08-30T12:57:42+08:00
 lastmod: 2024-08-30T15:18:42+08:00
